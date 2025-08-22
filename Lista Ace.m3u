@@ -1,0 +1,419 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
+
+# |  )      _ |   .  , _        , _    ~|~ |  /
+# |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
+
+# Lista Ace
+# A día: 22 VIII 2025
+
+## Primera ##
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Primera", DAZN LaLiga FHD
+acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 FHD --> NEW ERA VI - 14ec" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Primera", DAZN LaLiga FHD
+acestream://520950d296c952e1864a08e15af9f89f1ab514ec
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 FHD --> ELCANO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Primera", DAZN LaLiga FHD
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Primera", DAZN LaLiga
+acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio ELCANO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Primera", DAZN LaLiga
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+
+#EXTINF:-1 tvg-id="DAZN 2 LaLiga HD" tvg-name="DAZN LA LIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="Primera", DAZN LaLiga 2 FHD
+acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga FHD
+acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA FHD --> NEW ERA VI - d85c" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga FHD
+acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga 
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA FHD --> ELCANO - b163" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga 
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="Movistar LaLiga 2 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga 2 FHD
+acestream://2809da9b019f403364f6e099a07cee5e8fa70dd7
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M. LaLiga 2 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga 2
+acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LALIGA 3 FHD --> ELCANO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-3-por-movistar-plus-es.png" group-title="Primera", M+ LaLiga 3 FHD
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+
+## Segunda ##
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="HYPERMOTION FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png" group-title="Segunda", M+ LaLiga Hyp. FHD
+acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Smartbank 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png" group-title="Segunda", M+ LaLiga Hyp.
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Smartbank 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png" group-title="Segunda", M+ LaLiga Hyp.
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-2-es.png" group-title="Segunda", M+ LaLiga Hyp. 2 FHD
+acestream://1422d506c9f14c84b1249bf8ac0b0698cee7a659
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Smartbank 2 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-2-es.png" group-title="Segunda", M+ LaLiga Hyp. 2
+acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Hypermotion 3 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-3-es.png" group-title="Segunda", M+ LaLiga Hyp. 3 FHD
+acestream://d9297d3576c05551c08e0fe5bd85a793361a3cca
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Smartbank 3 1080 ELCANO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-3-es.png" group-title="Segunda", M+ LaLiga Hyp. 3
+acestream://778d2f60bb7207addedcca0b9aed98f41529724e
+
+## Champions ##
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="LIGA DE CAMPEONES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions FHD
+acestream://680187938f9305cce3ae240298f10e8695bf77c2
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="LIGA DE CAMPEONES FHD --> NEW ERA VI - 01d6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions FHD
+acestream://5c15c639207a080183b12fa63282b409c07401d6
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="LIGA DE CAMPEONES 2 FHD --> NEW ERA - 1f42" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions FHD
+acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="LIGA DE CAMPEONES --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions 
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M. Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="Campeones 1080 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions
+acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="LIGA DE CAMPEONES FHD --> NEW ERA - fba5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Champions", M+ Champions
+acestream://47223e64a576c21bd61e818a42397a753d34fba5
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Movistar Liga de Campeones 2 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png" group-title="Champions", M+ Champions 2 FHD
+acestream://33c009a025508cb2186b9ce36279640bb2507bdf
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="LIGA DE CAMPEONES 2 FHD --> NEW ERA - 8565" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png" group-title="Champions", M+ Champions 2 FHD
+acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Campeones 2 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png" group-title="Champions", M+ Champions 2
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Movistar Liga de Campeones 3 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-3-por-movistar-plus-es.png" group-title="Champions", M+ Champions 3 FHD
+acestream://b96a9b23b5343ca748e126c9257f42e204d3f52c
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Campeones 3 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-3-por-movistar-plus-es.png" group-title="Champions", M+ Champions 3
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+
+## Deporte ##
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Deporte", DAZN 1 FHD
+acestream://ee4dc45720d3ec283f61189fbfc120c91d5141bf
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD --> NEW ERA - 3fa9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Deporte", DAZN 1 FHD
+acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="Dazn 1 - e784" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Deporte", DAZN 1
+acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Deporte", DAZN 1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 BAR FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Deporte", DAZN 1
+acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Deporte", DAZN 2 FHD
+acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Deporte", DAZN 2 FHD
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD --> NEW ERA - a97d" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Deporte", DAZN 2 FHD
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD --> NEW ERA - e6d2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Deporte", DAZN 2 FHD
+acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Deporte", DAZN 2
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="Deporte", DAZN 3 FHD
+acestream://6fb944e8985881ae6db89667aca6362e746255b6
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="Deporte", DAZN 3 FHD
+acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD --> NEW ERA - 3b28" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="Deporte", DAZN 3 FHD
+acestream://8a86cd6152154a25ad4b76523160552a40313b28
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="Deporte", DAZN 3
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="Deporte", DAZN 4 FHD
+acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD --> NEW ERA - 7f50" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="Deporte", DAZN 4 FHD
+acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50
+
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="Deporte", DAZN 4
+acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b
+
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="Deporte", DAZN 4
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="DAZN EVENTOS 1 --> NEW ERA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte", DSports
+acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" group-title="Deporte", Eurosport 1 FHD
+acestream://704e51760a644bc90aa22269bf84139947a0414a
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" group-title="Deporte", Eurosport 1
+acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Deporte", Eurosport 2 FHD
+acestream://f8e861155c2a1959f8313b19f49d52e414313203
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Deporte", Eurosport 2
+acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD --> NEW ERA - 7031" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Deporte", Eurosport 2
+acestream://2773b39926d15dd3d9495d94c4050604792d7031
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Deporte", Eurosport 2
+acestream://0585e09bb8ac9720e4c11934f1b184e309291551
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC EVENTOS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-premium-ar.png" group-title="Deporte", FS Premium
+acestream://9efe41de7f5dcafc9395591feb959832e09683ff
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT MX --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-premium-ar.png" group-title="Deporte", FS Premium
+acestream://a0464d3642e054f6122e7c309017d1e8d23f4da9
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes FHD
+acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Movistar Deportes --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes FHD
+acestream://a139afc03d1623c321f6b084f79def682c492efa
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA - 0415" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes FHD
+acestream://9099f519dd9b6b6f74f105477ff545829a110415
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA - 355d" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes FHD
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA - 617e" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes FHD
+acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="MOVISTAR DEPORTES HD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Deporte 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Deporte 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="MOVISTAR DEPORTES 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 2 FHD
+acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="MOVISTAR DEPORTES 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 2
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="Deporte 2 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 2
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="Dedporte 2 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 2
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="Movistar Deportes 3 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-3-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 3 FHD
+acestream://d5271a967767f761c8812c4b6195dd40f20126f7
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-3-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 3 FHD
+acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
+
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-4-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 4 FHD
+acestream://58a4c880ab18486d914751db32a12760e74b75a4
+
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="Movistar Deportes 4 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-4-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 4 FHD
+acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2
+
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="Movistar Deportes 5 --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 5 FHD
+acestream://0b708083541a46dc15216c8003d7bcf39c458b2a
+
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="MOVISTAR DEPORTES 6 FHD --> NEW ERA - c28a" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" group-title="Deporte", M+ Deportes 6 FHD
+acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
+
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="MOVISTAR ELLAS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ellas-vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Ellas Vamos FHD
+acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="MOVISTAR GOLF FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png" group-title="Deporte", M+ Golf FHD
+acestream://76a69812c66bfc4899e89df498220588a56e6064
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="MOVISTAR GOLF FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png" group-title="Deporte", M+ Golf FHD
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="MOVISTAR GOLF HD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png" group-title="Deporte", M+ Golf
+acestream://872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" group-title="Deporte", M+ Plus FHD
+acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" group-title="Deporte", M+ Plus FHD
+acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS FHD --> NEW ERA - 0f70" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" group-title="Deporte", M+ Plus FHD
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS FHD --> NEW ERA - 933b" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" group-title="Deporte", M+ Plus FHD
+acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MovistarPlus 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" group-title="Deporte", M+ Plus
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS 2 FHD --> NEW ERA" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="Deporte", M+ Plus 2
+acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos FHD
+acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos FHD
+acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Vamos 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos
+acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Vamos 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos
+acestream://0e5d8c9724fa9163f49096b70484e315251eb785
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA - 6b6a" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos
+acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA - 2eae" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="Deporte", M+ Vamos
+acestream://2940120bf034db79a7f5849846ccea0255172eae
+
+#EXTINF:-1 tvg-name="TNT SPORTS HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png" group-title="Deporte", TNT Sports Premium
+acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+
+## Motor ##
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://8c1155cdfae76eb582290c04904c98da066657c9
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA VI - 0cd0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://ba6e1bdc8e03da60ff572557645eb04370af0cd0
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA - 7711" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA - 7494" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA - b8cc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1 FHD
+acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Motor", DAZN F1
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+
+## TDT ##
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="TDT", 24 Horas
+acestream://cc5ed178702605513cd18b4899c4be954d306cca
+
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD --> NEW ERA - 40e9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="TDT", Antena 3 FHD
+acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
+
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ARAGON TV HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/aragon-tv-es.png" group-title="TDT", Aragón TV
+acestream://ba4597903f099695e7d6bcc5938f91cb0798006b
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/canal-cocina-es.png" group-title="TDT", Canal Cocina FHD
+acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD --> NEW ERA - 4ef0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="TDT", Cuatro
+acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0
+
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPORT 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport-3-es.png" group-title="TDT", Esport 3 FHD
+acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
+
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/gol-play-es.png" group-title="TDT", Gol Play FHD
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY FHD --> NEW ERA - 4f93" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/gol-play-es.png" group-title="TDT", Gol Play FHD
+acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 (720p)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="TDT", La 1
+acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
+
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 FHD --> NEW ERA - c2ed" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="TDT", La 2 FHD
+acestream://9934906503661142f97a044ae1509a294057c2ed
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="RealMadrid_TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png" group-title="TDT", Real Madrid TV
+acestream://0827cf7d290967985892965c6e61244a479d6dcd
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="RealMadrid_TV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png" group-title="TDT", Real Madrid TV
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD --> NEW ERA - 9ca7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" tvg-id="Telecinco HD" group-title="TDT", Telecinco FHD
+acestream://3e7b1911a1f83fd869b6995650a3057778259ca7
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" tvg-id="Telecinco HD" group-title="TDT", Telecinco
+acestream://3d376333ee90d6db3d413fc5764ef635882076f5
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="TDT", Teledeporte 
+acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
+
+## Movistar ##
+
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/accion-por-movistar-plus-es.png" group-title="Movistar", M+ Acción FHD
+acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
+
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/accion-por-movistar-plus-es.png" group-title="Movistar", M+ Acción
+acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE ESPAÑOL FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cine-espanol-por-movistar-plus-es.png" group-title="Movistar", M+ Cine Español FHD
+acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668
+
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clasicos-por-movistar-plus-es.png" group-title="Movistar", M+ Clásicos FHD
+acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
+
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clasicos-por-movistar-plus-es.png" group-title="Movistar", M+ Clásicos
+acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
+
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" group-title="Movistar", M+ Comedia FHD
+acestream://90a3ad526f67f987f662eaf7d52e88004c796914
+
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/documentales-por-movistar-plus-es.png" group-title="Movistar", M+ Documentales FHD
+acestream://6cda7d2622bcafd6aef486016238936855927d7d
+
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/drama-por-movistar-plus-es.png" group-title="Movistar", M+ Drama FHD
+acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
+
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS FHD --> NEW ERA VI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/512px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="Movistar", M+ Estrenos FHD
+acestream://6341392460596e63edf38b013bd137c015e44007
+
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS FHD --> NEW ERA VI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="Movistar", M+ Hits FHD
+acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
+
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR SERIES FHD --> NEW ERA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="Movistar", M+ Hits
+acestream://2752dee68a7faa9c847216dc22a6821661db891a
+
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/indie-por-movistar-plus-es.png" group-title="Movistar", M+ Indie FHD
+acestream://508ffdbab097339adb4f3d922070b5df2c114d01
+
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/originales-por-movistar-plus-es.png" group-title="Movistar", M+ Originales FHD
+acestream://1f092144252939810fd302cbd00d46de760b5dd7
+
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="MOVISTAR VACACIONES FHD --> NEW ERA VI" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVCIVA.png" group-title="Movistar", M+ Vacaciones FHD
+acestream://15123ab3458c59bf548fbf6e5503799e81da4de6
+
+#EXTINF:-1 tvg-id="M+ Wéstern" tvg-name="MOVISTAR WESTERN FHD --> NEW ERA VI" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MWEST.png" group-title="Movistar", M+ Wéstern FHD
+acestream://e740a34497c3ba5943613a06999e805e6bbfa159
+
+## Música ##
+
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV LIVE HD [PL]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mtv-live-es.png" group-title="Música", MTV Live
+acestream://d8dde4a3b7964a19f144c5ac4c516933831ce7827bf77bf
