@@ -1,0 +1,907 @@
+{
+  "name": "Lista Acestream",
+  "author": "Buskimano",
+  "info": "A día: 29/09/2025",
+  "url": "https://is.gd/pevese",
+  "image": "https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/main/imgACE.jpg",
+  "groups": [
+    {
+      "name": "Primera",
+      "stations": [
+        {
+          "name": "DAZN LaLiga ¹",
+          "url": "acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892",
+          "info": "f8d5",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png"
+        },
+        {
+          "name": "DAZN LaLiga ²",
+          "url": "acestream://520950d296c952e1864a08e15af9f89f1ab514ec",
+          "info": "5209",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png"
+        },
+        {
+          "name": "DAZN LaLiga ³",
+          "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47",
+          "info": "110d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png"
+        },
+        {
+          "name": "DAZN LaLiga ⁴",
+          "url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
+          "info": "74de",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png"
+        },
+        {
+          "name": "DAZN LaLiga ⁵",
+          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+          "info": "e2b8",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png"
+        },
+        {
+          "name": "DAZN LaLiga 2",
+          "url": "acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5",
+          "info": "ae16",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png"
+        },
+        {
+          "name": "M+ LaLiga ¹",
+          "url": "acestream://07f2b92762cfff99bba785c2f5260c7934ca6034",
+          "info": "07f2",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga ²",
+          "url": "acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c",
+          "info": "c32a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga ³",
+          "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b",
+          "info": "cc9b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga ⁴",
+          "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163",
+          "info": "6d05",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga 2 ¹",
+          "url": "acestream://2809da9b019f403364f6e099a07cee5e8fa70dd7",
+          "info": "2809",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga 2 ²",
+          "url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec",
+          "info": "51b3",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ LaLiga 3",
+          "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4",
+          "info": "ebe1",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-3-por-movistar-plus-es.png"
+        }
+      ]
+    },
+    {
+      "name": "Segunda",
+      "stations": [
+        {
+          "name": "M+ LaLiga Hyp. ¹",
+          "url": "acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9",
+          "info": "f15f",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. ²",
+          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+          "info": "87bb",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. ³",
+          "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+          "info": "a4f0",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. 2 ¹",
+          "url": "acestream://1422d506c9f14c84b1249bf8ac0b0698cee7a659",
+          "info": "1422",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-2-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. 2 ²",
+          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
+          "info": "7090",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-2-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. 3 ¹",
+          "url": "acestream://d9297d3576c05551c08e0fe5bd85a793361a3cca",
+          "info": "d929",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-3-es.png"
+        },
+        {
+          "name": "M+ LaLiga Hyp. 3 ²",
+          "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e",
+          "info": "778d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-3-es.png"
+        }
+      ]
+    },
+    {
+      "name": "Champions",
+      "stations": [
+        {
+          "name": "M+ Champions ¹",
+          "url": "acestream://680187938f9305cce3ae240298f10e8695bf77c2",
+          "info": "6801",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ²",
+          "url": "acestream://5c15c639207a080183b12fa63282b409c07401d6",
+          "info": "5c15",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ³",
+          "url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42",
+          "info": "3bb6",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ⁴",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "info": "e572",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ⁵",
+          "url": "acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99",
+          "info": "bb5a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ⁶",
+          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
+          "info": "2b51",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions ⁷",
+          "url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5",
+          "info": "4722",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions 2 ¹",
+          "url": "acestream://33c009a025508cb2186b9ce36279640bb2507bdf",
+          "info": "33c0",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions 2 ²",
+          "url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565",
+          "info": "4c6e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions 2 ³",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+          "info": "74ab",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions 3 ¹",
+          "url": "acestream://b96a9b23b5343ca748e126c9257f42e204d3f52c",
+          "info": "b96a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-3-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Champions 3 ²",
+          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
+          "info": "4416",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-3-por-movistar-plus-es.png"
+        }
+      ]
+    },
+    {
+      "name": "Deporte",
+      "stations": [
+        {
+          "name": "DAZN 1 ¹",
+          "url": "acestream://ee4dc45720d3ec283f61189fbfc120c91d5141bf",
+          "info": "ee4d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png"
+        },
+        {
+          "name": "DAZN 1 ²",
+          "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9",
+          "info": "50a8",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png"
+        },
+        {
+          "name": "DAZN 1 ³",
+          "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
+          "info": "7ba1",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png"
+        },
+        {
+          "name": "DAZN 1 ⁴",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "info": "d5b2",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png"
+        },
+        {
+          "name": "DAZN 1 ⁵",
+          "url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3",
+          "info": "688e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png"
+        },
+        {
+          "name": "DAZN 2 ¹",
+          "url": "acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5",
+          "info": "9adf",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png"
+        },
+        {
+          "name": "DAZN 2 ²",
+          "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
+          "info": "8b08",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png"
+        },
+        {
+          "name": "DAZN 2 ³",
+          "url": "acestream://fb2dd566824658eeab27aae19a01c09430f1a97d",
+          "info": "fb2d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png"
+        },
+        {
+          "name": "DAZN 2 ⁴",
+          "url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2",
+          "info": "0f54",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png"
+        },
+        {
+          "name": "DAZN 2 ⁵",
+          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+          "info": "b0ea",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png"
+        },
+        {
+          "name": "DAZN 3 ¹",
+          "url": "acestream://6fb944e8985881ae6db89667aca6362e746255b6",
+          "info": "6fb9",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png"
+        },
+        {
+          "name": "DAZN 3 ²",
+          "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1",
+          "info": "d641",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png"
+        },
+        {
+          "name": "DAZN 3 ³",
+          "url": "acestream://8a86cd6152154a25ad4b76523160552a40313b28",
+          "info": "8a86",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png"
+        },
+        {
+          "name": "DAZN 3 ⁴",
+          "url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+          "info": "d1d9",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png"
+        },
+        {
+          "name": "DAZN 4 ¹",
+          "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0",
+          "info": "7e27",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png"
+        },
+        {
+          "name": "DAZN 4 ²",
+          "url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50",
+          "info": "7530",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png"
+        },
+        {
+          "name": "DAZN 4 ³",
+          "url": "acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b",
+          "info": "6a11",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png"
+        },
+        {
+          "name": "DAZN 4 ⁴",
+          "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+          "info": "7e90",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png"
+        },
+        {
+          "name": "DSports",
+          "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5",
+          "info": "176f",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
+        },
+        {
+          "name": "Eurosport 1 ¹",
+          "url": "acestream://704e51760a644bc90aa22269bf84139947a0414a",
+          "info": "704e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png"
+        },
+        {
+          "name": "Eurosport 1 ²",
+          "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a",
+          "info": "d830",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png"
+        },
+        {
+          "name": "Eurosport 2 ¹",
+          "url": "acestream://f8e861155c2a1959f8313b19f49d52e414313203",
+          "info": "f8e8",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png"
+        },
+        {
+          "name": "Eurosport 2 ²",
+          "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+          "info": "dc4c",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png"
+        },
+        {
+          "name": "Eurosport 2 ³",
+          "url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031",
+          "info": "2773",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png"
+        },
+        {
+          "name": "Eurosport 2 ⁴",
+          "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551",
+          "info": "0585",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png"
+        },
+        {
+          "name": "FS Premium ¹",
+          "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff",
+          "info": "9efe",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-premium-ar.png"
+        },
+        {
+          "name": "FS Premium ²",
+          "url": "acestream://a0464d3642e054f6122e7c309017d1e8d23f4da9",
+          "info": "a046",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-premium-ar.png"
+        },
+        {
+          "name": "M+ Deportes ¹",
+          "url": "acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237",
+          "info": "751b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ²",
+          "url": "acestream://a139afc03d1623c321f6b084f79def682c492efa",
+          "info": "a139",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ³",
+          "url": "acestream://9099f519dd9b6b6f74f105477ff545829a110415",
+          "info": "9099",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ⁴",
+          "url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+          "info": "332d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ⁵",
+          "url": "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e",
+          "info": "b584",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ⁶",
+          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "info": "acb5",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ⁷",
+          "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+          "info": "ebca",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes ⁸",
+          "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+          "info": "2f3c",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 2 ¹",
+          "url": "acestream://438991226c3bc6a06e7bfda9bea9f769957dc366",
+          "info": "4389",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 2 ²",
+          "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c",
+          "info": "edd0",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 2 ³",
+          "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+          "info": "bfa0",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 2 ⁴",
+          "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+          "info": "f0ee",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-2-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 3 ¹",
+          "url": "acestream://d5271a967767f761c8812c4b6195dd40f20126f7",
+          "info": "d527",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-3-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 3 ²",
+          "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee",
+          "info": "753d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-3-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 4 ¹",
+          "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+          "info": "58a4",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-4-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 4 ²",
+          "url": "acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2",
+          "info": "ebf3",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-4-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 5",
+          "url": "acestream://0b708083541a46dc15216c8003d7bcf39c458b2a",
+          "info": "0b70",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Deportes 6",
+          "url": "acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a",
+          "info": "190a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Ellas Vamos",
+          "url": "acestream://9b84af74b2fa3690c519199326fc2f181b025cdd",
+          "info": "9b84",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ellas-vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Golf ¹",
+          "url": "acestream://76a69812c66bfc4899e89df498220588a56e6064",
+          "info": "76a6",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Golf ²",
+          "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
+          "info": "8546",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Golf ³",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+          "info": "8726",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/golf-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus ¹",
+          "url": "acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a",
+          "info": "5d9a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus ²",
+          "url": "acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a",
+          "info": "5e24",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus ³",
+          "url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
+          "info": "8c67",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus ⁴",
+          "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
+          "info": "b6ff",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus ⁵",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+          "info": "1ab4",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Plus 2",
+          "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c",
+          "info": "fbc3",
+          "image": "https://i.ibb.co/hFYPWbpJ/plus.png"
+        },
+        {
+          "name": "M+ Vamos ¹",
+          "url": "acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f",
+          "info": "1444",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vamos ²",
+          "url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933",
+          "info": "3b2a",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vamos ³",
+          "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
+          "info": "c7c8",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vamos ⁴",
+          "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785",
+          "info": "0e5d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vamos ⁵",
+          "url": "acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a",
+          "info": "5731",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vamos ⁶",
+          "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
+          "info": "2940",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "TNT Sports Premium",
+          "url": "acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e",
+          "info": "5cca",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png"
+        }
+      ]
+    },
+    {
+      "name": "Motor",
+      "stations": [
+        {
+          "name": "DAZN F1 ¹",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494",
+          "info": "515e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ²",
+          "url": "acestream://8c1155cdfae76eb582290c04904c98da066657c9",
+          "info": "8c11",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ³",
+          "url": "acestream://ba6e1bdc8e03da60ff572557645eb04370af0cd0",
+          "info": "ba6e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ⁴",
+          "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
+          "info": "d5cf",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ⁵",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494",
+          "info": "515e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ⁶",
+          "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc",
+          "info": "82b4",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        },
+        {
+          "name": "DAZN F1 ⁷",
+          "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+          "info": "fd53",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png"
+        }
+      ]
+    },
+    {
+      "name": "TDT",
+      "stations": [
+        {
+          "name": "24 Horas",
+          "url": "acestream://cc5ed178702605513cd18b4899c4be954d306cca",
+          "info": "cc5e",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png"
+        },
+        {
+          "name": "Antena 3",
+          "url": "acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9",
+          "info": "f9d2",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png"
+        },
+        {
+          "name": "Aragón TV",
+          "url": "acestream://ba4597903f099695e7d6bcc5938f91cb0798006b",
+          "info": "ba45",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/aragon-tv-es.png"
+        },
+        {
+          "name": "Canal Cocina",
+          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b",
+          "info": "96f0",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/canal-cocina-es.png"
+        },
+        {
+          "name": "Cuatro",
+          "url": "acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0",
+          "info": "8d66",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png"
+        },
+        {
+          "name": "Esport 3",
+          "url": "acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64",
+          "info": "181f",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport-3-es.png"
+        },
+        {
+          "name": "Gol Play ¹",
+          "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+          "info": "b2d5",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/gol-play-es.png"
+        },
+        {
+          "name": "Gol Play ²",
+          "url": "acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93",
+          "info": "7309",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/gol-play-es.png"
+        },
+        {
+          "name": "La 1",
+          "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+          "info": "b55d",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png"
+        },
+        {
+          "name": "La 2",
+          "url": "acestream://9934906503661142f97a044ae1509a294057c2ed",
+          "info": "9934",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png"
+        },
+        {
+          "name": "Real Madrid TV ¹",
+          "url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd",
+          "info": "0827",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png"
+        },
+        {
+          "name": "Real Madrid TV ²",
+          "url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11",
+          "info": "0ec3",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png"
+        },
+        {
+          "name": "Telecinco ¹",
+          "url": "acestream://3e7b1911a1f83fd869b6995650a3057778259ca7",
+          "info": "3e7b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png"
+        },
+        {
+          "name": "Telecinco ²",
+          "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5",
+          "info": "3d37",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png"
+        },
+        {
+          "name": "Teledeporte",
+          "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230",
+          "info": "138b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png"
+        }
+      ]
+    },
+    {
+      "name": "Movistar",
+      "stations": [
+        {
+          "name": "M+ Acción ¹",
+          "url": "acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53",
+          "info": "b125",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/accion-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Acción ²",
+          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce",
+          "info": "102b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/accion-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Acción ³",
+          "url": "acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96",
+          "info": "0896",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/accion-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Cine Español",
+          "url": "acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668",
+          "info": "e47c",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cine-espanol-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Clásicos ¹",
+          "url": "acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39",
+          "info": "f9d4",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clasicos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Clásicos ²",
+          "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c",
+          "info": "cf6f",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clasicos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Clásicos ³",
+          "url": "acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae",
+          "info": "6462",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clasicos-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Comedia",
+          "url": "acestream://90a3ad526f67f987f662eaf7d52e88004c796914",
+          "info": "90a3",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Comedia ²",
+          "url": "acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6",
+          "info": "cf0c",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Cómic",
+          "url": "acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2",
+          "info": "4bfe",
+          "image": ""
+        },
+        {
+          "name": "M+ Documentales ¹",
+          "url": "acestream://6cda7d2622bcafd6aef486016238936855927d7d",
+          "info": "6cda",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/documentales-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Documentales ²",
+          "url": "acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9",
+          "info": "b3fc",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/documentales-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Drama ¹",
+          "url": "acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae",
+          "info": "a6de",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/drama-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Drama ²",
+          "url": "acestream://edee311dc307e1638eeac880b11bb6f4759b0d83",
+          "info": "edee",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/drama-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Estrenos ¹",
+          "url": "acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131",
+          "info": "5d35",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/330px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png"
+        },
+        {
+          "name": "M+ Estrenos ²",
+          "url": "acestream://6341392460596e63edf38b013bd137c015e44007",
+          "info": "6341",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/330px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png"
+        },
+        {
+          "name": "M+ Hits ¹",
+          "url": "acestream://2b8e5c7438d56541df3467cc5986cf1e66014101",
+          "info": "2b8e",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png"
+        },
+        {
+          "name": "M+ Hits ²",
+          "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a",
+          "info": "2752",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png"
+        },
+        {
+          "name": "M+ Hits ³",
+          "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065",
+          "info": "5055",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png"
+        },
+        {
+          "name": "M+ Indie ¹",
+          "url": "acestream://508ffdbab097339adb4f3d922070b5df2c114d01",
+          "info": "508f",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/indie-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Indie ²",
+          "url": "acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80",
+          "info": "7716",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/indie-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Originales ¹",
+          "url": "acestream://096b817fcc836535f608facb15fca6408fae3162",
+          "info": "096b",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/originales-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Originales ²",
+          "url": "acestream://1f092144252939810fd302cbd00d46de760b5dd7",
+          "info": "1f09",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/originales-por-movistar-plus-es.png"
+        },
+        {
+          "name": "M+ Vacaciones ¹",
+          "url": "acestream://15123ab3458c59bf548fbf6e5503799e81da4de6",
+          "info": "1512",
+          "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1"
+        },
+        {
+          "name": "M+ Vacaciones ²",
+          "url": "acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7",
+          "info": "cf99",
+          "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1"
+        },
+        {
+          "name": "M+ Wéstern",
+          "url": "acestream://e740a34497c3ba5943613a06999e805e6bbfa159",
+          "info": "e740",
+          "image": "https://www.movistarplus.es/recorte/m-DP/modmarcas/MWESTH"
+        }
+      ]
+    },
+    {
+      "name": "Música",
+      "stations": [
+        {
+          "name": "MTV Live",
+          "url": "acestream://d8dde4a3b7964a19f144c5ac4c516933831ce7827bf77bf",
+          "info": "d8dd",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mtv-live-es.png"
+        }
+      ]
+    }
+  ]
+}
