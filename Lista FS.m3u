@@ -4,7 +4,7 @@
 # |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
 
 # Lista FS
-# 16 XII 2025
+# 17 XII 2025
 
 # Música
 
@@ -140,94 +140,94 @@ http://85.11.144.6:6060/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/spain/mtv-00s-es.png" group-title="Música;Chachi", MTV 00s (1080p)
 http://38.199.4.160:93/play/a0bg
 
-#EXTINF:-1 tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Best of (GB) (Plu)
+#EXTINF:-1 tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Best of.png" group-title="Música", MTV Best of (GB) (Plu)
 https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 
-#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Biggest Pop (US) (Plu)
+#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Biggest Pop.png" group-title="Música", MTV Biggest Pop (US) (Plu)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="634fe16981d8f50007198161" tvg-logo="https://images.pluto.tv/channels/634fe16981d8f50007198161/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Brandneu (AL) (Plu)
+#EXTINF:-1 tvg-id="634fe16981d8f50007198161" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Brandneu.png" group-title="Música", MTV Brandneu (AL) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/634fe16981d8f50007198161/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=515d5197-0dc7-11f0-8950-ba8cb8c6a809
 
 #EXTINF:-1 tvg-id="MTV Classic" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/united-kingdom/mtv-classic-uk.png" group-title="Música", MTV Classic (480p)
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="6697672f3a4ad20008deff80" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Classic (AL) (Plu)
+#EXTINF:-1 tvg-id="6697672f3a4ad20008deff80" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (AL) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/6697672f3a4ad20008deff80/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=515d5197-0dc7-11f0-8950-ba8cb8c6a809
 
-#EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Classic (BR) (Plu)
+#EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (BR) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=781c6ec0-07c9-11f0-ada8-eae056ae1bfc
 
 #EXTINF:-1 tvg-id="Club MTV" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/united-kingdom/mtv-club-uk.png" group-title="Música", MTV Club (576p)
 http://iptv.prosto.tv:7000/ch125/video.m3u8?secret=xws6dla3
 
-#EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Flow Latino (ES) (Plu)
+#EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Flow Latino.png" group-title="Música", MTV Flow Latino (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
 
 #EXTINF:-1 tvg-id="MTV Hits HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Música", MTV Hits (576p)
 http://94.232.127.28:8080/mtvhits/index.m3u8
 
-#EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Hits Navidad (ES) (Plu)
+#EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Hits Navidad.png" group-title="Música", MTV Hits Navidad (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=71bb34be-ca67-11f0-b789-127395a5904f
 
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mtv-live-es.png" group-title="Música", MTV Live (720p)
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="62beb7a0f9db450007a123c5" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Love Music (DN) (Plu)
+#EXTINF:-1 tvg-id="62beb7a0f9db450007a123c5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (DN) (Plu)
 https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
 
-#EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Love Music (NO) (Plu)
+#EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (NO) (Plu)
 https://jmp2.uk/plu-638f2d9aa530b200072ec8ef.m3u8
 
-#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Love Music (SC) (Plu)
+#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (SC) (Plu)
 https://jmp2.uk/plu-638f2e6c7a07960007e52913.m3u8
 
-#EXTINF:-1 tvg-id="6331a4df44111b00076b15f7" tvg-logo="https://images.pluto.tv/channels/6331a4df44111b00076b15f7/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Chachi", MTV Movie Hits (DN) (Plu)
+#EXTINF:-1 tvg-id="6331a4df44111b00076b15f7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (DN) (Plu)
 https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
 
-#EXTINF:-1 tvg-id="6331a50a0eba1900080bd911" tvg-logo="https://images.pluto.tv/channels/6331a50a0eba1900080bd911/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Chachi", MTV Movie Hits (NO) (Plu)
+#EXTINF:-1 tvg-id="6331a50a0eba1900080bd911" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (NO) (Plu)
 https://jmp2.uk/plu-6331a50a0eba1900080bd911.m3u8
 
-#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Chachi", MTV Movie Hits (SC) (Plu)
+#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (SC) (Plu)
 https://jmp2.uk/plu-6331a5f83eb57800074d4a0d.m3u8
 
-#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Music (AL) (Plu)
+#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Music.png" group-title="Música", MTV Music (AL) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=515d5197-0dc7-11f0-8950-ba8cb8c6a809
 
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Music Made in Spain (ES) (Plu)
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Music Made in Spain.png" group-title="Música", MTV Music Made in Spain (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
 
-EXTINF:-1 tvg-id="65d372bba25d5e000823598e" tvg-logo="https://images.pluto.tv/channels/65d372bba25d5e000823598e/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV On Tour! (AL) (Plu)
+EXTINF:-1 tvg-id="65d372bba25d5e000823598e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (AL) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/65d372bba25d5e000823598e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10f10aa2-ad4c-11f0-87cc-c229de4b3760
 
-#EXTINF:-1 tvg-id="65ba492b0cb1a100088d2960" tvg-logo="https://images.pluto.tv/channels/65ba492b0cb1a100088d2960/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV On Tour! (DN) (Plu)
+#EXTINF:-1 tvg-id="65ba492b0cb1a100088d2960" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (DN) (Plu)
 https://jmp2.uk/plu-65ba492b0cb1a100088d2960.m3u8
 
-#EXTINF:-1 tvg-id="67b4a4e41a5ca7608025da79" tvg-logo="https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV On Tour! (MX) (Plu)
+#EXTINF:-1 tvg-id="67b4a4e41a5ca7608025da79" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (MX) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6139e17-adf3-11f0-9b3d-ee0d7dd6bdd6
 
-#EXTINF:-1 tvg-id="65ba4af9dc10a40008d9fcc3" tvg-logo="https://images.pluto.tv/channels/65ba4af9dc10a40008d9fcc3/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV On Tour! (NO) (Plu)
+#EXTINF:-1 tvg-id="65ba4af9dc10a40008d9fcc3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (NO) (Plu)
 https://jmp2.uk/plu-65ba4af9dc10a40008d9fcc3.m3u8
 
-#EXTINF:-1 tvg-id="65ba4b563af63d0008504d4f" tvg-logo="https://images.pluto.tv/channels/65ba4b563af63d0008504d4f/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV On Tour! (SC) (Plu)
+#EXTINF:-1 tvg-id="65ba4b563af63d0008504d4f" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (SC) (Plu)
 https://jmp2.uk/plu-65ba4b563af63d0008504d4f.m3u8
 
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Party Music (ES) (Plu)
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Party Music.png" group-title="Música", MTV Party Music (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
 
-#EXTINF:-1 tvg-id="624303598e45140007d765c1" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Chicha", MTV Rock (GB) (Plu)
+#EXTINF:-1 tvg-id="624303598e45140007d765c1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (GB) (Plu)
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
 
-#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Spankin' New (US) (Plu)
+#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Spankin' New.png" group-title="Música", MTV Spankin' New (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
 
-#EXTINF:-1 tvg-id="61c09489197fe600073c0570" tvg-logo="https://images.pluto.tv/channels/61c09489197fe600073c0570/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Unplugged (DN) (Plu)
+#EXTINF:-1 tvg-id="61c09489197fe600073c0570" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (DN) (Plu)
 https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
 
-#EXTINF:-1 tvg-id="61c1e14e5df1da0007bee0e3" tvg-logo="https://images.pluto.tv/channels/61c1e14e5df1da0007bee0e3/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Unplugged (NO) (Plu)
+#EXTINF:-1 tvg-id="61c1e14e5df1da0007bee0e3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (NO) (Plu)
 https://jmp2.uk/plu-61c1e14e5df1da0007bee0e3.m3u8
 
-#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", MTV Unplugged (SC) (Plu)
+#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (SC) (Plu)
 https://jmp2.uk/plu-61c0aec95deef000075acd09.m3u8
 
 #EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://i.imgur.com/aAsAbYP.png" group-title="Música", Next Radio Generation 91 FM (GR) (720p)
@@ -554,7 +554,7 @@ https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-logo="https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png" group-title="Música", XPTV 1 (GB) (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 
-#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", Yo! MTV (US) (Plu)
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Yo MTV.png" group-title="Música", Yo! MTV (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4625938d-ad8f-11f0-9e4a-2e1cbf4fc62c
 
 #EXTINF:-1 tvg-logo="https://www.zerounotvmusic.it/wp-content/uploads/2019/09/cropped-Logo-Zerouno-Tv-Music-per-sito-1.png" group-title="Música", Zerouno TV Music (IT) (720p)
