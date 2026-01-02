@@ -4,7 +4,7 @@
 # |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
 
 # Lista FS
-# 21 XII 2025
+# 22 XII 2025
 
 # Música
 
@@ -101,15 +101,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/686cd8bb9d079f48dbbdfecb/master.m3u
 #EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Movie Music.jpg" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993046&ads.xumo_streamId=99993046&ads.channelId=99993046&ads.ad_tag_id=102188&ads.csid=lgchannels_us_stingraymoviemusic_ssai&ads.channelName=stingraymoviemusic_us&ads.xumo_contentName=StingrayMovieMusic&ads.xumo_contentId=4178&ads.xumo_providerName=StingrayMovieMusic&ads.xumo_providerId=4178&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-80s-uk.png" group-title="Música;Chachi", MTV 80s (720p)
-http://185.189.225.152/MTV80s/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-90s-uk.png" group-title="Música;Chachi", MTV 90s (576p)
-http://iptv.prosto.tv:7000/ch127/video.m3u8?secret=xws6dla3
-
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/spain/mtv-00s-es.png" group-title="Música;Chachi", MTV 00s (1080p)
-http://38.199.4.160:93/play/a0bg
-
 #EXTINF:-1 tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Best of.png" group-title="Música", MTV Best of (GB) (Plu)
 https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 
@@ -125,14 +116,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/6697672f3a4ad20008deff80/master.m3u
 #EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (BR) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=781c6ec0-07c9-11f0-ada8-eae056ae1bfc
 
-#EXTINF:-1 tvg-id="Club MTV" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/united-kingdom/mtv-club-uk.png" group-title="Música", MTV Club (576p)
-http://iptv.prosto.tv:7000/ch125/video.m3u8?secret=xws6dla3
-
 #EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Flow Latino.png" group-title="Música", MTV Flow Latino (Plu)
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-
-#EXTINF:-1 tvg-id="MTV Hits HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Música", MTV Hits (576p)
-http://iptv.prosto.tv:7000/ch126/video.m3u8?secret=xws6dla3
 
 #EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Hits Navidad.png" group-title="Música;Navidad", MTV Hits Navidad (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=71bb34be-ca67-11f0-b789-127395a5904f
@@ -311,10 +296,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2070.png" group-title="Música;Chachi", Vevo 70 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2070.png" group-title="Música;Chachi", Vevo 70 (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
-
-#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2070.png" group-title="Música;Chachi", Vevo 70 (Rok)
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2070.png" group-title="Música;Chachi", Vevo 70 (US) (Rok)
 https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 
 #EXTINF:-1 tvg-id="ESBD230000289" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2070%20y%2080.png" group-title="Música;Chachi", Vevo 70 y 80 (ES) (Sam)
@@ -329,19 +311,13 @@ https://jmp2.uk/stvp-ITBD1900010JL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2080.png" group-title="Música;Chachi", Vevo 80 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2080.png" group-title="Música;Chachi", Vevo 80 (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
-
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2080.png" group-title="Música;Chachi", Vevo 80 (Rok)
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2080.png" group-title="Música;Chachi", Vevo 80 (US) (Rok)
 https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2090.png" group-title="Música;Chachi", Vevo 90 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2090.png" group-title="Música;Chachi", Vevo 90 (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4625938d-ad8f-11f0-9e4a-2e1cbf4fc62c
-
-#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2090.png" group-title="Música;Chachi", Vevo 90 (Rok)
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2090.png" group-title="Música;Chachi", Vevo 90 (US) (Rok)
 https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 
 #EXTINF:-1 tvg-id="FRBD1900013CB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%2090%20y%2000.png" group-title="Música;Chachi", Vevo 90 y 00 (FR) (Sam)
@@ -353,10 +329,7 @@ https://jmp2.uk/stvp-ITBC210000200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%202k.png" group-title="Música;Chachi", Vevo 2K (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%202k.png" group-title="Música;Chachi", Vevo 2K (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b4c1043f-5efa-11f0-8ea3-82720222b877
-
-#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%202k.png" group-title="Música;Chachi", Vevo 2K (Rok)
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo%202k.png" group-title="Música;Chachi", Vevo 2K (US) (Rok)
 https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 
 #EXTINF:-1 tvg-id="GB35000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251216T040628SQUARE.png" group-title="Música;Navidad", Vevo Christmas (GB) (Sam)
@@ -365,10 +338,7 @@ https://jmp2.uk/stvp-GB35000017V
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo country.png" group-title="Música", Vevo Country (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo country.png" group-title="Música", Vevo Country (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4625938d-ad8f-11f0-9e4a-2e1cbf4fc62c
-
-#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo country.png" group-title="Música", Vevo Country (Rok)
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo country.png" group-title="Música", Vevo Country (US) (Rok)
 https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 
 #EXTINF:-1 tvg-id="FRBC2100002JA" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo hip-hop y r&b.png" group-title="Música", Vevo Hip Hop y R&B (FR) (Rak)
