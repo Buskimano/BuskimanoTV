@@ -4,7 +4,7 @@
 # |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
 
 # Lista FS
-# 22 XII 2025
+# 3 I 2026
 
 # Música
 
@@ -23,6 +23,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/7 YOU & ME.jpg" group-title="Música", 7 YOU & ME (720p)
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Música", Activa TV (ES) (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Música", Cadena Elite (ES) (1080p)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
@@ -31,6 +34,9 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 
 #EXTINF:-1 tvg-id="ES32000027M" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Clips Don't Lie.jpg" group-title="Música", Clips Don't Lie (ES) (Sam)
 https://amg01821-amg01821c28-samsung-es-5503.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-samsunges/playlist.m3u8?ads
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L38mC6H.webp" group-title="Música", California Music Channel (US) (360p)
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", CMT Equal Play (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
@@ -68,6 +74,12 @@ https://jmp2.uk/stvp-USBD3500025GS
 #EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Emotion.jpg" group-title="Música", Émotion (FR) (Sam)
 https://jmp2.uk/stvp-FRBC900001LB
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Energy TV Music.jpg" group-title="Música", Energy TV Music (1080p)
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w1068041603_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Música", Euro Indie Music Chart (IT) (1080p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ITBC11000108G" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Hip Hop TV.jpg" group-title="Música", Hip Hop TV (IT) (Sam)
 https://jmp2.uk/stvp-ITBC11000108G
 
@@ -89,11 +101,23 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Karaoke.jpg" group-title="Música", Karaoke x Stingray (ES) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992079&ads.xumo_streamId=99992079&ads.channelId=99992079&ads.ad_tag_id=15718&ads.csid=lgchannels_es_stingraykaraokeeu_ssai&ads.channelName=stingraykaraokeeu_es&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xumo_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", K-POP (ES) (Sam)
+https://jmp2.uk/stvp-ES3900001QG
+
 #EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="Música", Kronehit (AT) (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", Live Music Replay (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="Música", m2o (IT) (360p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Música", Magic TV (BG) (360p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Magic TV.jpg" group-title="Música", Magic TV (RM) (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
 #EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Chicha", Metal Rocks (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/686cd8bb9d079f48dbbdfecb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2c34b76e-c461-11f0-bd7a-5a743f120099
@@ -101,86 +125,38 @@ https://stitcher.pluto.tv/stitch/hls/channel/686cd8bb9d079f48dbbdfecb/master.m3u
 #EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Movie Music.jpg" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993046&ads.xumo_streamId=99993046&ads.channelId=99993046&ads.ad_tag_id=102188&ads.csid=lgchannels_us_stingraymoviemusic_ssai&ads.channelName=stingraymoviemusic_us&ads.xumo_contentName=StingrayMovieMusic&ads.xumo_contentId=4178&ads.xumo_providerName=StingrayMovieMusic&ads.xumo_providerId=4178&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Best of.png" group-title="Música", MTV Best of (GB) (Plu)
-https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
-
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Biggest Pop.png" group-title="Música", MTV Biggest Pop (US) (Plu)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="MTV Classic" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/united-kingdom/mtv-classic-uk.png" group-title="Música", MTV Classic (480p)
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="6697672f3a4ad20008deff80" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (AL) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/6697672f3a4ad20008deff80/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=515d5197-0dc7-11f0-8950-ba8cb8c6a809
-
 #EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (BR) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=781c6ec0-07c9-11f0-ada8-eae056ae1bfc
 
-#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Flow Latino.png" group-title="Música", MTV Flow Latino (Plu)
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Flow Latino.png" group-title="Música", MTV Flow Latino (US) (Plu)
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
 #EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Hits Navidad.png" group-title="Música;Navidad", MTV Hits Navidad (ES) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=71bb34be-ca67-11f0-b789-127395a5904f
 
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mtv-live-es.png" group-title="Música", MTV Live (720p)
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8?secret=xws6dla3
+#EXTINF:-1 tvg-id="66e1e05a15d2c60008e4b2db" tvg-logo="https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Navidad", MTV Música Navideña (AR) (Plu)
+https://jmp2.uk/plu-66e1e05a15d2c60008e4b2db.m3u8
 
-#EXTINF:-1 tvg-id="62beb7a0f9db450007a123c5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (DN) (Plu)
-https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
-
-#EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (NO) (Plu)
-https://jmp2.uk/plu-638f2d9aa530b200072ec8ef.m3u8
-
-#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Love Music.png" group-title="Música", MTV Love Music (SC) (Plu)
-https://jmp2.uk/plu-638f2e6c7a07960007e52913.m3u8
-
-#EXTINF:-1 tvg-id="6331a4df44111b00076b15f7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (DN) (Plu)
-https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
-
-#EXTINF:-1 tvg-id="6331a50a0eba1900080bd911" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (NO) (Plu)
-https://jmp2.uk/plu-6331a50a0eba1900080bd911.m3u8
-
-#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Movie Hits.png" group-title="Música;Chachi", MTV Movie Hits (SC) (Plu)
-https://jmp2.uk/plu-6331a5f83eb57800074d4a0d.m3u8
-
-#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Music.png" group-title="Música", MTV Music (AL) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=515d5197-0dc7-11f0-8950-ba8cb8c6a809
-
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Music Made in Spain.png" group-title="Música", MTV Music Made in Spain (ES) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
-
-EXTINF:-1 tvg-id="65d372bba25d5e000823598e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (AL) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/65d372bba25d5e000823598e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10f10aa2-ad4c-11f0-87cc-c229de4b3760
-
-#EXTINF:-1 tvg-id="65ba492b0cb1a100088d2960" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (DN) (Plu)
-https://jmp2.uk/plu-65ba492b0cb1a100088d2960.m3u8
+#EXTINF:-1 tvg-id="66e1e2d515d2c60008e4b690" tvg-logo="https://images.pluto.tv/channels/66e1e2d515d2c60008e4b690/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música;Navidad", MTV Natal (BR) (Plu)
+https://jmp2.uk/plu-66e1e2d515d2c60008e4b690.m3u8
 
 #EXTINF:-1 tvg-id="67b4a4e41a5ca7608025da79" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (MX) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6139e17-adf3-11f0-9b3d-ee0d7dd6bdd6
 
-#EXTINF:-1 tvg-id="65ba4af9dc10a40008d9fcc3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (NO) (Plu)
-https://jmp2.uk/plu-65ba4af9dc10a40008d9fcc3.m3u8
-
-#EXTINF:-1 tvg-id="65ba4b563af63d0008504d4f" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (SC) (Plu)
-https://jmp2.uk/plu-65ba4b563af63d0008504d4f.m3u8
-
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Party Music.png" group-title="Música", MTV Party Music (ES) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
-
-#EXTINF:-1 tvg-id="624303598e45140007d765c1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (GB) (Plu)
-https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
+#EXTINF:-1 tvg-id="66a01e07d2d50d0008100d6a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (BR) (Plu)
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
 #EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Spankin' New.png" group-title="Música", MTV Spankin' New (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
 
-#EXTINF:-1 tvg-id="61c09489197fe600073c0570" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (DN) (Plu)
-https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
-
-#EXTINF:-1 tvg-id="61c1e14e5df1da0007bee0e3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (NO) (Plu)
-https://jmp2.uk/plu-61c1e14e5df1da0007bee0e3.m3u8
-
-#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Unplugged.png" group-title="Música", MTV Unplugged (SC) (Plu)
-https://jmp2.uk/plu-61c0aec95deef000075acd09.m3u8
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Yo MTV.png" group-title="Música", MTV Yo! (US) (Plu)
+https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4625938d-ad8f-11f0-9e4a-2e1cbf4fc62c
 
 #EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/NRG 91 FM.jpg" group-title="Música", Next Radio Generation 91 FM (GR) (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
@@ -230,6 +206,9 @@ https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakute
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Radio 51 TV.jpg" group-title="Música", Radio 51 TV (IT) (576p)
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Música", Radio Capital (IT) (360p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Radio Citta.jpg" group-title="Música", Radio Citta (IT) (720p)
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 
@@ -274,6 +253,9 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Música", Spektra (ES) (720p)
 https://cloudvideo.servers10.com:8081/8026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCp6vXz.png" group-title="Música", Spirit TV (US) (360p)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Telehit.sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/telehit-musica-mx.png" group-title="Música", TeleHit Música (MX)
 http://185.189.225.152/TELEHIT/index.m3u8
@@ -478,9 +460,6 @@ https://jmp2.uk/stvp-USBD3300010L9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XPTV1.jpg" group-title="Música", XPTV1 (GB) (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-
-#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Yo MTV.png" group-title="Música", Yo! MTV (US) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4625938d-ad8f-11f0-9e4a-2e1cbf4fc62c
 
 #EXTINF:-1 tvg-logo="https://www.zerounotvmusic.it/wp-content/uploads/2019/09/cropped-Logo-Zerouno-Tv-Music-per-sito-1.png" group-title="Música", Zerouno TV Music (IT) (720p)
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w1499217935.m3u8
@@ -947,6 +926,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u
 
 #EXTINF:-1 tvg-id="plex.tv.Mi.Casa.plex" tvg-logo="https://image.xumo.com/v1/channels/channel/99992222/600x600.webp?type=white_cropped" group-title="Docus", Mi Casa (LG)
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992222&ads.csid=lgchannels_[COUNTRY]_IndigeniusMiCasaSpanish_ssai&ads.content_language=es&ads.content_category=IAB8&ads.content_genre=Food%20TV&ads.content_rating=tv-g&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_contentId=2160&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992222&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250408T021804SQUARE.png" group-title="Docus", RTVE Docs (Sam)
+https://jmp2.uk/stvp-ES33000036Q
 
 #EXTINF:-1 tvg-id="ES2700002YP" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Docus", Top Gear (Sam)
 https://jmp2.uk/stvp-ES2700002YP
