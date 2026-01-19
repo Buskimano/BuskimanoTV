@@ -4,7 +4,7 @@
 # |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
 
 # Lista FS
-# 16 I 2026
+# 19 I 2026
 
 # Música
 
@@ -89,9 +89,6 @@ https://jmp2.uk/stvp-ITBC11000108G
 #EXTINF:-1 tvg-logo="https://radiohitfm.it/wp-content/uploads/2020/09/Hit-FM-homepage-ok.png" group-title="Música", Hit FM TV (ES) (720p)
 https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Hits 360.jpg" group-title="Música", Hits 360 (US) (1080p)
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray iConcerts.png" group-title="Música", iConcerts x Stingray (1080p)
 https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
@@ -131,20 +128,11 @@ https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 #EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Movie Music.jpg" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993046&ads.xumo_streamId=99993046&ads.channelId=99993046&ads.ad_tag_id=102188&ads.csid=lgchannels_us_stingraymoviemusic_ssai&ads.channelName=stingraymoviemusic_us&ads.xumo_contentName=StingrayMovieMusic&ads.xumo_contentId=4178&ads.xumo_providerName=StingrayMovieMusic&ads.xumo_providerId=4178&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Biggest Pop.png" group-title="Música", MTV Biggest Pop (US) (Plu)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="MTV Classic" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/united-kingdom/mtv-classic-uk.png" group-title="Música", MTV Classic (480p)
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Classic.png" group-title="Música", MTV Classic (BR) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
-
-#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Flow Latino.png" group-title="Música", MTV Flow Latino (US) (Plu)
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-
-#EXTINF:-1 tvg-id="67b4a4e41a5ca7608025da79" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV On Tour.png" group-title="Música", MTV On Tour! (MX) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6139e17-adf3-11f0-9b3d-ee0d7dd6bdd6
 
 #EXTINF:-1 tvg-id="66a01e07d2d50d0008100d6a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (BR) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
@@ -158,8 +146,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Music Box Classic.png" group-title="Música;Chachi", Music Box Classic (1080p)
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Music Box Sexy.png" group-title="Música;Chachi", Music Box Sexy (1080p)
-https://dash4.antik.sk/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Music TV Granada.png" group-title="Música", Music TV Granada (ES) (1080p)
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/NRG 91 FM.jpg" group-title="Música", Next Radio Generation 91 FM (GR) (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
@@ -167,29 +155,26 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/New KPOP.jpg" group-title="Música", New KPOP (US) (TCL)
 https://b62222b243074e22bae1184e1d24b9cc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus-ca_NewKPop/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKPop&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Nostalgic Music.jpg" group-title="Música;Chachi", Nostalgic Music (US) (360p)
-https://stmv1.srvif.com/nostalgicmusic/nostalgicmusic/playlist.m3u8
-
 #EXTINF:-1 tvg-id="now-70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Música;Chachi", Now 70s (Rak)
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="now-80s" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Música;Chachi", Now 80s (Rak)
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="660c209e19ca71000846cf38" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Música", Now 90s y 00s (GB) (Plu)
-https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
-
 #EXTINF:-1 tvg-id="now-rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Música;Chicha", Now Rock (Rak)
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Expres.jpg" group-title="Música", Ocko Expres (CH) (540p)
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Black.png" group-title="Música", Ocko Black (CH) (1080p)
+https://dash4.antik.sk/live/test_ocko_black/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Hits.jpg" group-title="Música", Ocko Hits (CH) (540p)
+#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Expres.png" group-title="Música", Ocko Expres (CH) (1080p)
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Star.png" group-title="Música", Ocko Star (CH) (1080p)
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko TV.png" group-title="Música", Ocko TV (CH) (540p)
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Ocko Star.jpg" group-title="Música", Ocko Star (CH) (540p)
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/OurVinyl.jpg" group-title="Música", OurVinyl (Dis)
 https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23208&ads.content_duration=18000&ads.episode_id=138920&ads.show_id=5294&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CEntertainment%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=OurVinyl&ads.episodetitle=OurVinyl&ads.keywords=music%2Clive%20music%2Cmusic%20videos%2Cindie%2Cperformance&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251201
@@ -197,7 +182,7 @@ https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Música", Pervyj MUZ (BLR) (720p)
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Power Love.png" group-title="Música", Power Love (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Power Love.png" group-title="Música", Power Love (TR) (1080p)
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Pulse Rock TV.jpg" group-title="Música;Chicha", Pulse Rock TV (US) (1080p)
@@ -229,6 +214,9 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Radio Piter Pan.png" group-title="Música", Radio Piter Pan TV (IT) (720p)
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/REBEL.png" group-title="Música;Chicha", REBEL (CH) (576p)
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Recuerdos Retro.jpg" group-title="Música", Recuerdos Retro (CL) (480p)
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
@@ -269,11 +257,11 @@ https://cloudvideo.servers10.com:8081/8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCp6vXz.png" group-title="Música", Spirit TV (US) (360p)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/STZ Telebista.png" group-title="Música", STZ Telebista (ES) (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.Telehit.sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/telehit-musica-mx.png" group-title="Música", TeleHit Música (MX)
 http://185.189.225.152/TELEHIT/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Música", TMF (RU)
-http://195.9.195.3:8080/hls/201891.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música;Chachi", Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -413,27 +401,6 @@ https://jmp2.uk/stvp-DEBC21000022L
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/vevo true school hip-hop.png" group-title="Música", Vevo True School Hip-Hop (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
 
-#EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Back to '90s.jpg" group-title="Música", VH1+ Back to '90s (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0944dc58-1560-11f0-9521-ea1c8925bac5
-
-#EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Canzoni Italiane.jpg" group-title="Música", VH1+ Canzoni Italiane (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0944dc58-1560-11f0-9521-ea1c8925bac5
-
-#EXTINF:-1 tvg-id="6690f892d51259000880d1c4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Classici.jpg" group-title="Música", VH1+ Classici (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/6690f892d51259000880d1c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0944dc58-1560-11f0-9521-ea1c8925bac5
-
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Classics.jpg" group-title="Música", VH1+ Classics (ES) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bbf8dde5-1496-11f0-96eb-82ed18b82910
-
-#EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Dance.jpg" group-title="Música", VH1+ Dance (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/65e5d9d2ec9fda0008c35f91/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0944dc58-1560-11f0-9521-ea1c8925bac5
-
-#EXTINF:-1 tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Music Legends.jpg" group-title="Música", VH1+ Music Legends (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0944dc58-1560-11f0-9521-ea1c8925bac5
-
-#EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/VH1+ Rock.jpg" group-title="Música;Chicha", VH1+ Rock (IT) (Plu)
-https://stitcher.pluto.tv/stitch/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e944a39d-6bf1-11f0-a5c2-de57464130ca
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://nexa-static.elektamedia.com/uploads/static/VideoHit/assets/videohit_white_logo.png" group-title="Música;Chachi", VideoHit
 https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
 
@@ -443,52 +410,49 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Vintage Radio TV.png" group-title="Música;Chachi", Vintage Radio TV (IT) (720p)
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Música", VIVA TV (RU) (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBB320000647" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE 80s Flashback.jpg" group-title="Música;Chachi", XITE '80s Flashback (US) (Sam)
+#EXTINF:-1 tvg-id="USBB320000647" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE 80s Flashback.png" group-title="Música;Chachi", XITE '80s Flashback (US) (Sam)
 https://jmp2.uk/stvp-USBB320000647
 
-#EXTINF:-1 tvg-id="USBB3200007AK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE 90s Throwback.jpg" group-title="Música", XITE '90s Throwback (US) (Sam)
+#EXTINF:-1 tvg-id="USBB3200007AK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE 90s Throwback.png" group-title="Música", XITE '90s Throwback (US) (Sam)
 https://jmp2.uk/stvp-USBB3200007AK
 
-#EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Celebrates.jpg" group-title="Música", XITE Celebrates (US) (Sam)
+#EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Celebrates.png" group-title="Música", XITE Celebrates (US) (Sam)
 https://jmp2.uk/stvp-USBD350003932
 
-#EXTINF:-1 tvg-id="CABD1200023UJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Classic Country.jpg" group-title="Música", XITE Classic Country (CA) (Sam)
+#EXTINF:-1 tvg-id="CABD1200023UJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Classic Country.png" group-title="Música", XITE Classic Country (CA) (Sam)
 https://jmp2.uk/stvp-CABD1200023UJ
 
-#EXTINF:-1 tvg-id="USBD3300006O3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Country Today.jpg" group-title="Música", XITE Country Today (US) (Sam)
-https://jmp2.uk/stvp-USBD3300006O3
+#EXTINF:-1 tvg-id="CABD120001993" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Country Today.png" group-title="Música", XITE Country Today (CA) (Sam)
+https://jmp2.uk/stvp-CABD120001993
 
-#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Gospel.jpg" group-title="Música", XITE Gospel (US) (Plu)
+#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Gospel.png" group-title="Música", XITE Gospel (US) (Plu)
 https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6be0ede1-123b-11f0-abe6-a20d462fd1e7
 
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Happy Holidays.jpg" group-title="Música", XITE Happy Holidays (CA) (Sam)
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Happy Holidays.png" group-title="Música", XITE Happy Holidays (CA) (Sam)
 https://jmp2.uk/stvp-CABD17000043J
 
-#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.jpg" group-title="Música", XITE Hits (AL) (Sam)
+#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.png" group-title="Música", XITE Hits (AL) (Sam)
 https://jmp2.uk/stvp-DEBA2200007V6
 
-#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.jpg" group-title="Música", XITE Hits (GB) (LG)
+#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.png" group-title="Música", XITE Hits (GB) (LG)
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.jpg" group-title="Música", XITE Hits (US) (Sam)
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Hits.png" group-title="Música", XITE Hits (US) (Sam)
 https://jmp2.uk/stvp-USBD3300004RH
 
-#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Just Chill.jpg" group-title="Música", XITE Just Chill (US) (Sam)
+#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Just Chill.png" group-title="Música", XITE Just Chill (US) (Sam)
 https://jmp2.uk/stvp-USBB2300003JZ
 
-#EXTINF:-1 tvg-id="USBD3300007PB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Nuevo Latino.jpg" group-title="Música", XITE Nuevo Latino (US) (Sam)
+#EXTINF:-1 tvg-id="USBD3300007PB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Nuevo Latino.png" group-title="Música", XITE Nuevo Latino (US) (Sam)
 https://jmp2.uk/stvp-USBD3300007PB
 
-#EXTINF:-1 tvg-id="USBD330000948" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE R&B Classic Jams.jpg" group-title="Música", XITE R&B Classic Jams (US) (Sam)
-https://jmp2.uk/stvp-USBD330000948
+#EXTINF:-1 tvg-id="CABD1200021MS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE R&B Classic Jams.png" group-title="Música", XITE R&B Classic Jams (CA) (Sam)
+https://jmp2.uk/stvp-CABD1200021MS
 
-#EXTINF:-1 tvg-id="USBB2300004KV" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Rock X Metal.jpg" group-title="Música;Chicha", XITE Rock X Metal (US) (Sam)
+#EXTINF:-1 tvg-id="USBB2300004KV" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Rock X Metal.png" group-title="Música;Chicha", XITE Rock X Metal (US) (Sam)
 https://jmp2.uk/stvp-USBB2300004KV
 
-#EXTINF:-1 tvg-id="USBD3300010L9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Siempre Latino.jpg" group-title="Música", XITE Siempre Latino (US) (Sam)
+#EXTINF:-1 tvg-id="USBD3300010L9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XITE Siempre Latino.png" group-title="Música", XITE Siempre Latino (US) (Sam)
 https://jmp2.uk/stvp-USBD3300010L9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/XPTV1.jpg" group-title="Música", XPTV1 (GB) (720p)
@@ -556,7 +520,7 @@ https://c8f9fc78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 #EXTINF:-1 tvg-id="plex.tv.Hit.List.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Hit List.jpg" group-title="VRadio", Hit List x Stingray (US) (Xum)
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885532/hls/master.m3u8?ads.xumo_channelId=88885532
 
-#EXTINF:-1 tvg-id="USBD3500038R6" tvg-logo="https://image.xumo.com/v1/channels/channel/99992518/600x600.webp?type=white_cropped" group-title="VRadio;Navidad", Holidayscapes x Stingray (US) (LG)
+#EXTINF:-1 tvg-id="USBD3500038R6" tvg-logo="https://image.xumo.com/v1/channels/channel/99992518/600x600.webp?type=white_cropped" group-title="VRadio", Holidayscapes x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992518&ads.xumo_streamId=99992518&ads.channelId=99992518&ads.ad_tag_id=31258&ads.csid=lgchannels_us_stingrayholidayscape_ssai&ads.channelName=stingrayholidayscape_us&ads.xumo_contentName=StingrayHolidayscape&ads.xumo_contentId=3996&ads.xumo_providerName=StingrayHolidayscape&ads.xumo_providerId=3996&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-id="USBD3300021KV" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Stingray Hot Country.jpg" group-title="VRadio", Hot Country x Stingray (US) (LG)
@@ -617,9 +581,6 @@ https://di4chcy8fb6ab.cloudfront.net/11002/88817964/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993047/600x600.webp?type=white_cropped" group-title="Relax", Cozy Cafe x Stingray (US) (Xum)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047
-
-#EXTINF:-1 tvg-id="US2900005NW" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Cozy Vibes.jpg" group-title="Relax", Cozy Vibes (US) (Sam)
-https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
 
 #EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Deluxe Lounge.jpg" group-title="Relax", Deluxe Lounge (Rak)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=5a0b72cc-bc2a-4afb-b827-b7a5c5a3da99&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
@@ -707,19 +668,19 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999209
 
 # DJ
 
+#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png" group-title="DJ", 360TuneBox (CH)
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Best.jpg" group-title="DJ", Best of Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="DJ", Clubbing TV (ES) (Rak)
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="" group-title="DJ", Hot Beats TV
-http://195.9.195.3:8080/hls/191858.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Deep House.jpg" group-title="DJ", Deep House x Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Down Tempo.jpg" group-title="DJ", Down Tempo x Dance TV (HO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Down Tempo.jpg" group-title="DJ", nv Down Tempo x Dance TV (HO)
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV House.jpg" group-title="DJ", House x Dance TV (HO)
@@ -728,7 +689,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Main Stage.jpg" group-title="DJ", Main Stage x Dance TV (HO)
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Melodic Tech.jpg" group-title="DJ", Melodic Tech x Dance TV (HO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV Melodic Tech.jpg" group-title="DJ", nv Melodic Tech x Dance TV (HO)
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/refs/heads/Logos/Dance TV MNML.jpg" group-title="DJ", MNML x Dance TV (HO)
