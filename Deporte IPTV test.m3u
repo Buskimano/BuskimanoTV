@@ -1,0 +1,163 @@
+#EXTM3U url-tvg="https://bit.ly/Plutogz, https://bit.ly/Samsunggz, https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,  https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://i.mjh.nz/Roku/all.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz" max-conn="1" refresh="24"
+
+# |  )      _ |   .  , _        , _    ~|~ |  /
+# |  ) L| _\ |< |  | | | ( |  | | ( )  |   |/
+
+# Lista Deporte IPTV test
+# A día: 17 X 2025
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Norte).sv" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deporte", nv ESPN (N) (1080p)
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deporte", nv ESPN (CO) (480p)
+http://190.60.56.41:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Sur).sv" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deporte", nv ESPN (S) (480p)
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Norte).sv" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deporte", nv ESPN 2 (N) (1080p)
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deporte", ESPN 2 (CO) (480p)
+http://179.1.68.245:7600/play/a07a/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Sur).sv" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deporte", ESPN 2 (S) (1080p)
+http://190.60.37.118:4000/play/a048
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Sur).sv" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deporte", ESPN 2 (S) (480p)
+http://181.189.241.114:5050/play/a0q3
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Norte).sv" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Deporte", nv ESPN 3 (N) (1080p)
+http://38.180.133.31:8000/play/a0w5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Deporte", ESPN 3 (CO) (1080p)
+http://179.1.68.245:7600/play/a0bs/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Deporte", ESPN 3 (CO) (480p)
+http://179.1.68.245:7600/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Deporte", ESPN 3 (S) (1080p)
+http://190.60.37.118:4000/play/a02y
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Norte).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deporte", nv ESPN 4 (N) (1080p)
+http://38.180.133.31:8000/play/a0wd/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deporte", ESPN 4 (CO) (480p)
+http://179.1.68.245:7600/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Sur).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deporte", ESPN 4 (S) (1080p)
+http://190.60.37.118:4000/play/a02x
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Deporte", nv ESPN 5 (C) (1080p)
+http://38.180.133.31:8000/play/a0w7/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Deporte", ESPN 5 (CO) (1080p)
+http://190.60.37.118:4000/play/a02m
+
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Deporte", ESPN 5 (CO) (1080p)
+http://179.1.68.245:7600/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Sudamérica).sv" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Deporte", nv ESPN 5 (S) (1080p)
+http://38.44.109.41:8003/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Deporte", ESPN 6 (CO) (1080p)
+http://179.1.68.245:7600/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Deporte", ESPN 6 (CO) (480p)
+http://179.1.68.245:7600/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Deporte", ESPN 6 (C) (1080p)
+http://181.78.82.6:46090/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Deporte", ESPN 7 (CO) (480p)
+http://179.1.68.245:7600/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Deporte", ESPN 7 (S) (1080p)
+http://190.60.37.118:4000/play/a09j
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://i.pinimg.com/736x/e5/22/20/e522209afed1c1324010dd8a6f3a3101.jpg" group-title="Deporte", nv ESPN Deportes (720p)
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-premium-lam.png" group-title="Deporte", ESPN Premium (1080p)
+http://190.171.83.2:4000/play/a0g4/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-premium-lam.png" group-title="Deporte", ESPN Premium (1080p)
+http://179.1.68.245:7600/play/a0bx/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" group-title="Deporte", nv Eurosport 1 (720p)
+http://92.118.251.84/Eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Deporte", nv Eurosport 2 (1080p)
+http://92.118.251.84/Eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="fifa-plus-es-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" group-title="F", FIFA+ (Rak) (540p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_classification=0&ads.content_genre=sports&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d4538201-011e-4cb7-b3da-ac07f34d89dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
+
+#EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250513T005437SQUARE.png" group-title="F", FIFA+ (Sam) (540p)
+https://jmp2.uk/stvp-ESBC2700009B4
+
+#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc"  tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" group-title="Deporte", Fox Deportes (Plu) (240p)
+https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
+
+#EXTINF:-1 tvg-id="Canal.Fox.Deportes.sv" tvg-logo="https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/9e370feb-8bb6-5e95-bc18-74e8790b0e8c/01a84265-e09c-5682-92ce-681c89a1afe2.jpg" group-title="Deporte", nv Fox Deportes (Tub) (480p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Norte).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Deporte", nv Fox Sports (720p)
+http://190.61.117.35:8000/play/a05n
+
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Deporte", nv Fox Sports 2 (1080p)
+http://172.93.102.112:8989/128041_.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Deporte", nv Fox Sports 2 (720p)
+http://104.238.205.28:8989/278767_.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(Cono.Norte).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="Deporte", nv Fox Sports 3 (720p)
+http://104.238.205.28:8989/278768_.m3u8
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.(FoxSportsPrem).pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-premium-ar.png" group-title="Deporte", nv Fox Sports Premium (720p)
+http://190.102.139.129:8090/play/a083
+
+#EXTINF:-1 tvg-id="El.Garage.TV.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-garage-tv-ar.png" group-title="Deporte", Garage TV (404p)
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deporte", ITV Deportes (360p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deporte", nv M+ LaLiga (ES) (720p)
+http://181.78.106.127:9000/play/ca027/index.m3u8
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" group-title="Deporte", nv M+ Vamos nv
+https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal.PX.Sports.sv" tvg-logo="https://pxsports.com/wp-content/uploads/2025/02/cropped-Logo-Vertical-Gris.png" group-title="Deporte", PX Sports (480p)
+http://200.115.96.66:4000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Deporte", nv Sky Sport La Liga (1080p)
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Costa.Rica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png" group-title="Deporte", nv Tigo Sports (1080p)
+http://38.180.133.31:8000/play/a0p5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png" group-title="Deporte", nv TNT Sports (480p)
+http://190.211.163.19:9999/play/a0bi
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png" group-title="Deporte", nv TNT Sports 2 (480p)
+http://38.225.198.65:8081/play/a00a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png" group-title="Deporte", nv TNT Sports Premium (480p)
+http://190.211.163.19:9999/play/a09j
+
+#EXTINF:-1 tvg-id="Canal.TUDN.(Estados.Unidos).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Deporte", nv TUDN (US) (1080p)
+http://190.92.10.66:4000/play/a002/index.m3u8 nv
+
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" group-title="Deporte", TyC Sports (480p)
+http://179.1.68.245:7600/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1633.png" group-title="Deporte", Win Sports
+http://179.1.68.245:7600/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1633.png" group-title="Deporte", buf Win Sports + (1080p)
+http://179.1.68.245:7600/play/a0be/index.m3u8
+
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1633.png" group-title="Deporte", buf Win Sports + (480p)
+http://179.1.68.245:7600/play/a0c6/index.m3u8
