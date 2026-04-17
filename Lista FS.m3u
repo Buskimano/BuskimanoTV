@@ -62,11 +62,11 @@ https://jmp2.uk/stvp-DEBA150003050
 #EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Música", Deluxe Music (AL) (720p)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png" group-title="Música", Deluxe Rap (AL) (1080p)
+#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AL) (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 tvg-id="AT3400007C0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Wintertime.png" group-title="Música", Deluxe Wintertime (AT) (Sam)
-https://jmp2.uk/stvp-AT3400007C0
+#EXTINF:-1 tvg-id="DE340000678" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20260331T032435SQUARE.png" group-title="Música", Deluxe Summertime (AL) (Sam)
+https://jmp2.uk/stvp-DE340000678
 
 #EXTINF:-1 tvg-id="USBD3500025GS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Djazz.png" group-title="Música", Djazz x Stingray (US) (Sam)
 https://jmp2.uk/stvp-USBD3500025GS
@@ -624,7 +624,7 @@ https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Island.Escape.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SoniCentric Island Escape.png" group-title="Relax", Island Escape 1-1 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/29/16/21c76396e33ef91bd4519ccde60d88b0.mp4
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b182852fa5860ed0017de42c7b9ce05a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png" group-title="Relax", Nature Moments (Rok)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Nature Moments.png" group-title="Relax", Nature Moments (Rok)
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 
 #EXTINF:-1 tvg-id="CAAJ3400003T7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42759e04-9961-44c5-b9ae-585ac62f34ca/Stingray_Naturescape_logo_light.png" group-title="Relax", Naturescape x Stingray (CA) (Sam)
@@ -721,17 +721,20 @@ https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ESBD80000288" tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="Varios", Acción (Run) (720p)
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="Varios", Acción Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Accion.png" group-title="Varios", Acción Hits x Sony One (LG) (1080p)
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.ARTFLIX.-.Movie.Classics.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b07b634c-2cf4-46dc-8bd3-a32a785f9cc8/artflix_ESP_artwork_vertical_2x3_-_Toni_Newesil.jpg" group-title="Varios", ArtFlix (LG) (720p)
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/AXN.png" group-title="Varios", AXN (720p)
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/AXN.png" group-title="Varios", AXN (720p)
 http://185.189.225.152/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="6995daa579545c21a10e84de" tvg-logo="https://images.pluto.tv/channels/6995daa579545c21a10e84de/colorLogoPNG_1774623953804.png" group-title="Varios", Basadas en libros (Plu)
+#EXTINF:-1 tvg-id="6995daa579545c21a10e84de" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Basadas en libros.png" group-title="Varios", Basadas en libros (Plu)
 https://jmp2.uk/plu-6995daa579545c21a10e84de.m3u8
+
+#EXTINF:-1 tvg-id="ESBC2700003T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="Varios", Bigtime - Películas Gratis (Sam)
+https://jmp2.uk/stvp-ESBC2700003T8
 
 #EXTINF:-1 tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Varios", Catástrofes (Plu) (720p)
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
@@ -772,7 +775,7 @@ https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 #EXTINF:-1 tvg-id="68de3db35fc0afe85de0b843" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Varios", Comedia a lo bestia (Plu)
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 
-#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="Varios", Comedia Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Comedia.png" group-title="Varios", Comedia Hits x Sony One (LG) (1080p)
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Varios", Comedia Made in Spain (Plu) (720p)
@@ -784,7 +787,7 @@ https://jmp2.uk/stvp-ESAJ3800005C5
 #EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Varios", Comedias Románticas (Plu) (720p)
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 
-#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="Varios", Comedia Series x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Comedia.png" group-title="Varios", Comedia Series x Sony One (LG) (1080p)
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-crimen" tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="Varios", Crimen (Run) (720p)
@@ -805,7 +808,7 @@ https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 tvg-id="family-rakuten-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/55bcbbe9-d8ec-45de-849e-775854edea1e.jpeg" group-title="Varios", En Familia (Rak) (1080p)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ec446cc9-df31-401f-8884-f517ef656451&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Varios", Éxitos x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Exitos.png" group-title="Varios", Éxitos x Sony One (LG) (1080p)
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png" group-title="Varios", Familia (Run) (720p)
@@ -813,6 +816,9 @@ https://jmp2.uk/stvp-ES700004C8
 
 #EXTINF:-1 tvg-id="feelgood" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="Varios", FeelGood (Run) (720p)
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
+
+#EXTINF:-1 tvg-id="ES4200001MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png" group-title="Varios", Moviesphere (Sam)
+https://jmp2.uk/stvp-ES4200001MR
 
 #EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://image.xumo.com/v1/channels/channel/99991780/600x600.webp?type=white_cropped" group-title="Varios", MyTime Movie Network (Sam) (720p)
 https://jmp2.uk/stvp-ESBA2200004G5
@@ -837,6 +843,9 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Varios", Romántico (Plu) (720p)
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+
+#EXTINF:-1 tvg-id="ES33000058B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png" group-title="Varios", RTVE Somos Cine (Sam)
+https://jmp2.uk/stvp-ES33000058B
 
 #EXTINF:-1 tvg-id="ESBC400001QQ" tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="Varios", Runtime Cine (Sam) (720p)
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -868,7 +877,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="Runtime Thriller-Terror" tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="Varios", Thriller (Run) (720p)
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="Varios", Thriller Series x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300002Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Thriller.png" group-title="Varios", Thriller Series x Sony One (LG) (1080p)
 https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6e6e627e-d9ef-46da-8f3a-eea4949f632e.jpeg" group-title="Varios", Thrillers (Rak) (1080p)
@@ -941,7 +950,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8
 #EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/logo.png?w=600&h=600&trim=auto&trim-sd=10&trim-md=0&fit=clip" group-title="Noticias", Actualidad 360 (TCL)
 https://amg01821-amg01821c27-tcl-spain-5969.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES34000039I" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/cnnus/CNNe_logo.png" group-title="Noticias", CNN en Español (LG)
+#EXTINF:-1 tvg-id="ES34000039I" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CNN.png" group-title="Noticias", CNN en Español (LG)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo="https://cdn.storage.foromedios.com/monthly_2024_02/large.DWDeutscheWelleenespaol.png.b5cc19d4d75f3c0803ad79adb29c07ab.png" group-title="Noticias", DW
@@ -959,7 +968,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="Negocios.TV.distro" tvg-logo="https://a.jsrdn.com/hls/23130/negocios-tv/thumbh_20240130_181523_270.png" group-title="Noticias", Negocios TV (Vid)
 https://negociostv-negociostv-vidaa.amagi.tv/hls/amagi_hls_data_vidaaAAAA-negociostv-negociostv-vidaa/CDN/master.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9110
 
-#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EVE.png" group-title="Noticias", RT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/RT.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 # Deporte
@@ -967,25 +976,25 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deporte", ESPN (MX) (1080p)
 http://177.10.184.193:8000/play/a0dg/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deporte", ESPN 2 (C) (1080p)
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 2.png" group-title="Deporte", ESPN 2 (C) (1080p)
 http://179.63.6.15:8002/play/a02s
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Deporte", ESPN 3 (C) (1080p)
 http://179.63.6.15:8002/play/a02t
 
-#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deporte", ESPN 4 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 4.png" group-title="Deporte", ESPN 4 (C) (1080p)
 http://179.63.6.15:8002/play/a02u
 
 #EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Deporte", ESPN 5 (C) (1080p)
 http://177.10.184.193:8000/play/a0de/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Deporte", ESPN 6 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 6.png" group-title="Deporte", ESPN 6 (C) (1080p)
 http://181.78.82.6:46090/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Deporte", ESPN 7 (S) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 7.png" group-title="Deporte", ESPN 7 (S) (1080p)
 http://190.60.37.118:4000/play/a09j
 
-#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-premium-lam.png" group-title="Deporte", ESPN Premium (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN Premium.png" group-title="Deporte", ESPN Premium (1080p)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sky Sports LaLiga.png" group-title="Deporte", Sky Sports LaLiga (1080p)
