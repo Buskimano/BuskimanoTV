@@ -4,7 +4,7 @@
 # |  ) L| _\ |< | | | | ( | | | ( ) |  |/
 
 # Lista FS
-# 18 IV 2026
+# 23 IV 2026
 
 # Música
 
@@ -95,12 +95,6 @@ https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Impact Dance TV.png" group-title="Música", Impact Dance TV (GR) (1080p)
 https://online.tvimpact.live/hls/dancetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Música", iTV Latin Music (CA) (1080p)
-https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Música", iTV Urban Music (CA) (1080p)
-https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Karaoke.png" group-title="Música", Karaoke x Stingray (AR) (Plu)
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 
@@ -119,7 +113,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Live Music Replay.png" group-title="Música", Live Music Replay (US) (Plu)
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="Música", m2o (IT) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/m2o.png" group-title="Música", m2o (IT) (360p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV BG.png" group-title="Música", Magic TV (BG) (360p)
@@ -266,10 +260,10 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/p
 #EXTINF:-1 tvg-id="ESBD2300004Y7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sol Musica.png" group-title="Música", Sol Música (ES) (Sam)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/0zCt8e4.png" group-title="Música", Spektra (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spektra.png" group-title="Música", Spektra (ES) (720p)
 https://cloudvideo.servers10.com:8081/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/yCp6vXz.png" group-title="Música", Spirit TV (US) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spirit TV.png" group-title="Música", Spirit TV (US) (360p)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/STZ Telebista.png" group-title="Música", STZ Telebista (ES) (1080p)
@@ -487,7 +481,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951464/hls/hls.m3u8?ads.xumo_channe
 #EXTINF:-1 tvg-id="US4700005EA" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Country Greats.png" group-title="VRadio", Country Greats x Stingray (US) (Xum)
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885586/hls/master.m3u8?ads.xumo_channelId=88885586
 
-#EXTINF:-1 tvg-id="0a241da07d3659b388e8d45a444de030" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/600x600.webp?type=white_cropped" group-title="VRadio", Country Radio x iHeart (US) (Xum)
+#EXTINF:-1 tvg-id="0a241da07d3659b388e8d45a444de030" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/iHeart Country Radio.png" group-title="VRadio", Country Radio x iHeart (US) (Xum)
 https://dbrb49pjoymg4.cloudfront.net/10001/9995102/hls/hls.m3u8?ads.xumo_channelId=9995102&ads._fw_ifa_type=&ads._fw_did=aa75fd39-4c81-45a9-89af-46fefc629d13&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartCountry&ads.csid=xumo_web_iHeartCountry_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3523&ads.xumo_contentName=iHeartCountry&ads.xumo_providerId=3523&ads.xumo_providerName=iHeartCountry&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995102&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 tvg-id="USBD3500011J3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Easy Listening.png" group-title="VRadio", Easy Listening x Stingray (US) (LG)
@@ -562,7 +556,7 @@ https://jmp2.uk/stvp-USBD3500017CE
 #EXTINF:-1 tvg-id="USBD35000128A" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Smooth Jazz.png" group-title="VRadio", Smooth Jazz x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992016&ads.xumo_streamId=99992016&ads.channelId=99992016&ads.ad_tag_id=9336&ads.csid=lgchannels_us_stingraysmoothjazz_ssai&ads.channelName=stingraysmoothjazz_us&ads.xumo_contentName=StingraySmoothJazz&ads.xumo_contentId=3538&ads.xumo_providerName=StingraySmoothJazz&ads.xumo_providerId=3538&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="plex.tv.Soul.Storm.plex" tvg-logo="https://www.dropbox.com/scl/fi/huu6km93ww1c284uwtxib/Stingray-Soul-Storm.jpg?rlkey=bgksw2gzepo4diar6nghv3lfx&raw=1" group-title="VRadio", Soul Storm x Stingray (US) (Xum)
+#EXTINF:-1 tvg-id="plex.tv.Soul.Storm.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Soul Storm.png" group-title="VRadio", Soul Storm x Stingray (US) (Xum)
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885536/hls/master.m3u8?ads.xumo_channelId=88885536
 
 #EXTINF:-1 tvg-id="CA29000146S" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Souvenirs.png" group-title="VRadio", Souvenirs x Stingray (CA) (Sam)
@@ -578,6 +572,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999245
 https://lotus.stingray.com/ads/ose-232ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]
 
 # Relax
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ambient T-Storm.png" group-title="Relax", Ambient T-Storm 1-8 x SoniCentric (Faw)
+https://ftmain.cachefly.net/files/a8wn4hw/vi/52/19/10682123/hls-hi/s10682123.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cityscapes.png" group-title="Relax", Cityscapes x Stingray (Vid)
 https://di4chcy8fb6ab.cloudfront.net/11002/88817964/hls/master.m3u8?ads.xumo_channelId=88817964&ads.csid=hisensechannels_us_stingraycityscapes_ssai&ads.caid=StingrayCityscapes&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_coppa=0&ads.xumo_contentId=4246&ads.xumo_contentName=StingrayCityscapes&ads.xumo_providerId=4246&ads.xumo_providerName=StingrayCityscapes&ads._fw_content_rating=TV-PG&ads.xumo_streamId=88817964&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9595
@@ -633,7 +630,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/QERP6PY/F909F2C9DA95/m.m3u8
 #EXTINF:-1 tvg-id="US700012OU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocean Vibes.png" group-title="Relax", Ocean Vibes (US) (Sam)
 https://jmp2.uk/stvp-US700012OU
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax", Relaxing Bossa Nova Cafe 1-5 x SoniCentric (Faw)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Relaxing Bossa Nova Cafe.png" group-title="Relax", Relaxing Bossa Nova Cafe 1-5 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/53/7d/10682227/hls-hi/s10682227.m3u8
 
 #EXTINF:-1 tvg-id="Relaxing.Rain.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SoniCentric Relaxing Rain.png" group-title="Relax", Relaxing Rain 1-5 x SoniCentric (Faw)
@@ -647,9 +644,6 @@ https://di4chcy8fb6ab.cloudfront.net/11002/88817974/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-id="Study.Lounge.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Study Lounge.png" group-title="Relax", Study Lounge 1-3 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/40/33/10682178/hls-hi/s10682178.m3u8
-
-#EXTINF:-1 tvg-id="Tranquil.Thunderstorms.distro" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/logo_20231219_223555_68.png" group-title="Relax", Tranquil Thunderstorms 1-8 x SoniCentric (Faw)
-https://ftmain.cachefly.net/files/a8wn4hw/vi/52/19/10682123/hls-hi/s10682123.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax", ZenLIFE x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.xumo_streamId=99992099&ads.channelId=99992099&ads.ad_tag_id=36042&ads.csid=lgchannels_us_stingrayzenlife_ssai&ads.channelName=stingrayzenlife_us&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.xumo_providerName=StingrayZenlifeUS&ads.xumo_providerId=3975&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -718,7 +712,7 @@ https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 #EXTINF:-1 tvg-id="Cine Español (Rakuten TV)" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Cine Español.png" group-title="Varios", Cine Español (Rak) (1080p)
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=9092f706-009b-4e6c-8a05-3c90f69ff61b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/logo.png" group-title="Varios", Cine Estelar (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Estelar.png" group-title="Varios", Cine Estelar (Plu) (720p)
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 
 #EXTINF:-1 tvg-id="cine-friki" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Friki.png" group-title="Varios", Cine Friki (Rak) (1080p)
@@ -727,7 +721,7 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 #EXTINF:-1 tvg-id="cines-verdi" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cines Verdi.png" group-title="Varios", Cines Verdi (Run) (720p)
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 
-#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/logo.png" group-title="Varios", Clásico (Plu) (684p)
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Clasico.png" group-title="Varios", Clásico (Plu) (684p)
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
 
 #EXTINF:-1 tvg-id="ESBD230000143" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FreeTV Clasico.png" group-title="Varios", Clásico FreeTV (Sam) (1080p)
@@ -769,7 +763,7 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 #EXTINF:-1 tvg-id="dark-matter-es-new" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dark Matter.png" group-title="Varios", Dark Matter - Horror Visión (Rak) (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=d34331dd-008e-4426-a7cf-f9bef5d572bc&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019
 
-#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/logo.png" group-title="Varios", Drama (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Drama.png" group-title="Varios", Drama (Plu) (720p)
 https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
 
 #EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Drama.png" group-title="Varios", Drama (Rak) (252p)
@@ -871,7 +865,7 @@ https://amg01821-lovetvchannels-lovemagazinees-samsungspain-zll2b.amagi.tv/playl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Trash.png" group-title="Varios", Trash (Run) (720p)
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
-#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/logo.png" group-title="Varios", Wipeout (Plu) (720p)
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Wipeout.png" group-title="Varios", Wipeout (Plu) (720p)
 https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 
 # Docus
@@ -897,7 +891,7 @@ https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 #EXTINF:-1 tvg-id="67517f923a61d40008c451f0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Historia y Vida.png" group-title="Docus", Historia y Vida (Plu)
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 
-#EXTINF:-1 tvg-id="65786abdb3801200084c593a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/600x600.webp?type=white_cropped" group-title="Docus", Homeful (Plu)
+#EXTINF:-1 tvg-id="65786abdb3801200084c593a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Homeful.png" group-title="Docus", Homeful (Plu)
 https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Mi.Casa.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Mi Casa.png" group-title="Docus", Mi Casa (LG)
