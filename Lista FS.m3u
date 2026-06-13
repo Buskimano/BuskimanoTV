@@ -5,34 +5,34 @@
 
 # Música
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/30A Music.png" group-title="Música", 30A Music (US) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/30A Music.png" group-title="Música",KO  30A Music (US) (720p)
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 
-#EXTINF:-1 tvg-id="4ACETV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV.png" group-title="Música", 4ACETV (Dis)
+#EXTINF:-1 tvg-id="4ACETV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV.png" group-title="Música",KO  4ACETV (Dis)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=q3Su2ZgYPUi
 
-#EXTINF:-1 tvg-id="4ACETV.CLASSIC.HITS.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV Classic Hits.png" group-title="Música", 4ACETV Classic Hits (Dis)
+#EXTINF:-1 tvg-id="4ACETV.CLASSIC.HITS.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV Classic Hits.png" group-title="Música",KO  4ACETV Classic Hits (Dis)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.channel_name=4ACETV+CLASSIC+HITS&ads.content_id=SON102&ads.coppa=0&ads.provider=Onajobi+LTD&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=137063&ads.show_id=5250&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CClassic%20Hits%2CMusic%20Video%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4ACETV%20CLASSIC%20HITS&ads.episodetitle=4ACETV%20CLASSIC%20HITS&ads.keywords=music%2Cclassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251201
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/7 YOU & ME.png" group-title="Música", 7 YOU & ME (IT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/7 YOU & ME.png" group-title="Música",KO  7 YOU & ME (IT)
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Activa TV.png" group-title="Música", Activa TV (ES)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Activa TV.png" group-title="Música",KO  Activa TV (ES)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BSO Channel.png" group-title="Música", BSO Channel (IT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BSO Channel.png" group-title="Música",KO  BSO Channel (IT)
 https://57068da1deb21.streamlock.net/bwr/bwr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cadena Elite.png" group-title="Música", Cadena Elite (ES)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cadena Elite.png" group-title="Música",KO  Cadena Elite (ES)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-id="CA400005W4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Classica.png" group-title="Música", Classica x Stingray (CA) (Sam)
+#EXTINF:-1 tvg-id="CA400005W4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Classica.png" group-title="Música",KO  Classica x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ES32000027M" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Clips Don't Lie.png" group-title="Música", Clips Don't Lie (ES) (Sam)
+#EXTINF:-1 tvg-id="ES32000027M" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Clips Don't Lie.png" group-title="Música",KO  Clips Don't Lie (ES) (Sam)
 https://amg01821-amg01821c28-samsung-es-5503.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-samsunges/playlist.m3u8?ads
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CMC.png" group-title="Música", California Music Channel (US)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CMC.png" group-title="Música",KO  California Music Channel (US)
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CMT Equal Play.png" group-title="Música", CMT Equal Play (US) (Plu)
@@ -42,7 +42,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES2500001F9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cool Summer Channel.png" group-title="Música", Cool Summer Channel (ES) (Sam)
+#EXTINF:-1 tvg-id="ES2500001F9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cool Summer Channel.png" group-title="Música",KO  Cool Summer Channel (ES) (Sam)
 https://jmp2.uk/stvp-ES2500001F9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/80s & 90s Dance Hits.png" group-title="Música;Chachi", Dance Hits 80s 90s (RU)
@@ -51,7 +51,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Def Jam.png" group-title="Música", Def Jam (GB) (Sam)
 https://jmp2.uk/stvp-GBBD3000004VR
 
-#EXTINF:-1 tvg-id="DE23000015Y" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Dance.png" group-title="Música", Deluxe Dance (AL)
+#EXTINF:-1 tvg-id="DE23000015Y" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Dance.png" group-title="Música",KO  Deluxe Dance (AL)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
 #EXTINF:-1 tvg-id="DEBA150003050" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Deutschpop.png" group-title="Música", Deluxe Deutschpop (AL) (Sam)
@@ -60,7 +60,7 @@ https://jmp2.uk/stvp-DEBA150003050
 #EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Music.png" group-title="Música", Deluxe Music (AL) (720p)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AL) (1080p)
+#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música",KO  Deluxe Rap (AL) (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-id="DE340000678" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Summer.png" group-title="Música", Deluxe Summer (AL) (Sam)
@@ -69,7 +69,7 @@ https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 tvg-id="USBD3500025GS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Djazz.png" group-title="Música", Djazz x Stingray (US) (Sam)
 https://jmp2.uk/stvp-USBD3500025GS
 
-#EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Emotion.png" group-title="Música", Émotion (FR) (Sam)
+#EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Emotion.png" group-title="Música",KO  Émotion (FR) (Sam)
 https://jmp2.uk/stvp-FRBC900001LB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Energy TV Music.png" group-title="Música", Energy TV Music (1080p)
@@ -106,7 +106,7 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Karaoke.png" group-title="Música", Karaoke x Stingray (ES) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992079&ads.xumo_streamId=99992079&ads.channelId=99992079&ads.ad_tag_id=15718&ads.csid=lgchannels_es_stingraykaraokeeu_ssai&ads.channelName=stingraykaraokeeu_es&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xumo_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/K-Pop.png" group-title="Música", K-Pop (ES) (Sam)
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/K-Pop.png" group-title="Música",KO  K-Pop (ES) (Sam)
 https://jmp2.uk/stvp-ES3900001QG
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Kronehit.png" group-title="Música", Kronehit (AT) (1080p)
@@ -128,7 +128,7 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV.png" group-title="Música", Magic TV (RM) (720p)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
-#EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Rocks.png" group-title="Música;Chicha", Metal Rocks (GB) (Rak)
+#EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Rocks.png" group-title="Música;Chicha",KO  Metal Rocks (GB) (Rak)
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Movie Music.png" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
@@ -171,22 +171,22 @@ https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music TV Granada.png" group-title="Música", Music TV Granada (ES) (1080p)
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
-#EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NRG 91 FM.png" group-title="Música", Next Radio Generation 91 FM (GR) (720p)
+#EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NRG 91 FM.png" group-title="Música",KO  Next Radio Generation 91 FM (GR) (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/New KPOP.png" group-title="Música", New KPOP (US) (TCL)
+#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/New KPOP.png" group-title="Música",KO  New KPOP (US) (TCL)
 https://b62222b243074e22bae1184e1d24b9cc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus-ca_NewKPop/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKPop&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 70s.png" group-title="Música;Chachi", That's 70s (Rak)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 70s.png" group-title="Música;Chachi",KO  That's 70s (Rak)
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 80s.png" group-title="Música;Chachi", That's 80s (Rak)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 80s.png" group-title="Música;Chachi",KO  That's 80s (Rak)
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="660c209e19ca71000846cf38" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 90s 00s.png" group-title="Música;Chachi", That's 90s 00s (GB) (Rak)
+#EXTINF:-1 tvg-id="660c209e19ca71000846cf38" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's 90s 00s.png" group-title="Música;Chachi",KO  That's 90s 00s (GB) (Rak)
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's ROCK.png" group-title="Música;Chicha", that's ROCK (Rak)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's ROCK.png" group-title="Música;Chicha",KO  that's ROCK (Rak)
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Black.png" group-title="Música", Ocko Black (CH) (1080p)
@@ -216,7 +216,7 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?tok
 #EXTINF:-1 tvg-id="64240d3d466225000827412b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Qello Concerts.png" group-title="Música", Qello Concerts x Stingray (CA) (Sam)
 https://jmp2.uk/stvp-CA400004SM
 
-#EXTINF:-1 tvg-id="qwest-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Qwest.png" group-title="Música", Qwest TV (Rak)
+#EXTINF:-1 tvg-id="qwest-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Qwest.png" group-title="Música",KO  Qwest TV (Rak)
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio 51 TV.png" group-title="Música", Radio 51 TV (IT) (576p)
@@ -309,16 +309,16 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Totalmusic Dance.png" group-title="Música;Chachi", Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.TRACE.Brazuca.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Brasil.png" group-title="Música", Trace Brasil (Ple)
+#EXTINF:-1 tvg-id="plex.tv.TRACE.Brazuca.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Brasil.png" group-title="Música",KO  Trace Brasil (Ple)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
 
-#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Latina.png" group-title="Música", Trace Latina (ES) (Sam)
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Latina.png" group-title="Música",KO  Trace Latina (ES) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBBD19000026B" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace UK.png" group-title="Música", Trace UK (GB) (Sam)
 https://jmp2.uk/stvp-GBBD19000026B
 
-#EXTINF:-1 tvg-id="ESBA3300043M0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Urban.png" group-title="Música", Trace Urban (ES) (Sam)
+#EXTINF:-1 tvg-id="ESBA3300043M0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Urban.png" group-title="Música",KO  Trace Urban (ES) (Sam)
 https://trace-urban-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/V2Beat.png" group-title="Música", V2Beat (GB) (720p)
@@ -333,10 +333,10 @@ https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Rock.png" group-title="Música;Chicha", Vantage Rock (ES) (720p)
 https://hls.vantagetv.ee/vrock_stream/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70.png" group-title="Música;Chachi", Vevo 70 (NZ) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70.png" group-title="Música;Chachi",KO  Vevo 70 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70.png" group-title="Música;Chachi", Vevo 70 (US) (Rok)
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70.png" group-title="Música;Chachi",KO  Vevo 70 (US) (Rok)
 https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 
 #EXTINF:-1 tvg-id="ESBD230000289" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70 y 80.png" group-title="Música;Chachi", Vevo 70 y 80 (ES) (Sam)
@@ -348,16 +348,16 @@ https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-id="ITBD1900010JL" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70 y 80.png" group-title="Música;Chachi", Vevo 70 y 80 (IT) (Sam)
 https://jmp2.uk/stvp-ITBD1900010JL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 80.png" group-title="Música;Chachi", Vevo 80 (NZ) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 80.png" group-title="Música;Chachi",KO  Vevo 80 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 80.png" group-title="Música;Chachi", Vevo 80 (US) (Rok)
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 80.png" group-title="Música;Chachi",KO  Vevo 80 (US) (Rok)
 https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90.png" group-title="Música;Chachi", Vevo 90 (NZ) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90.png" group-title="Música;Chachi",KO  Vevo 90 (NZ) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90.png" group-title="Música;Chachi", Vevo 90 (US) (Rok)
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90.png" group-title="Música;Chachi",KO  Vevo 90 (US) (Rok)
 https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 
 #EXTINF:-1 tvg-id="FRBD1900013CB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90 y 00.png" group-title="Música;Chachi", Vevo 90 y 00 (FR) (Sam)
@@ -366,16 +366,16 @@ https://jmp2.uk/stvp-FRBD1900013CB
 #EXTINF:-1 tvg-id="ITBC210000200" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 90 y 00.png" group-title="Música;Chachi", Vevo 90 y 00 (IT) (Sam)
 https://jmp2.uk/stvp-ITBC210000200
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 2k.png" group-title="Música;Chachi", Vevo 2K (AU) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 2k.png" group-title="Música;Chachi",KO  Vevo 2K (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 2k.png" group-title="Música;Chachi", Vevo 2K (US) (Rok)
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 2k.png" group-title="Música;Chachi",KO  Vevo 2K (US) (Rok)
 https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo country.png" group-title="Música", Vevo Country (AU) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo country.png" group-title="Música",KO  Vevo Country (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo country.png" group-title="Música", Vevo Country (US) (Rok)
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo country.png" group-title="Música",KO  Vevo Country (US) (Rok)
 https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 
 <<<<<<< Updated upstream
@@ -385,7 +385,7 @@ https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 >>>>>>> Stashed changes
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GBBD2300001C0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo hip-hop y r&b.png" group-title="Música", Vevo Hip-Hop y R&B (GB) (Sam)
+#EXTINF:-1 tvg-id="GBBD2300001C0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo hip-hop y r&b.png" group-title="Música",KO  Vevo Hip-Hop y R&B (GB) (Sam)
 https://jmp2.uk/stvp-GBBD2300001C0
 
 #EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo iconos latinos.png" group-title="Música", Vevo Iconos Latinos (US) (Plu)
@@ -401,19 +401,19 @@ https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-id="DEBC2100001ZJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (AL) (Sam)
 https://jmp2.uk/stvp-DEBC2100001ZJ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (AU) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música",KO  Vevo Pop (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2100001IU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (ES) (Sam)
 https://jmp2.uk/stvp-ESBC2100001IU
 
-#EXTINF:-1 tvg-id="FRBC2100001YY" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (FR) (Rak)
+#EXTINF:-1 tvg-id="FRBC2100001YY" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música",KO  Vevo Pop (FR) (Rak)
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBBC19000017V" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (GB) (Sam)
 https://jmp2.uk/stvp-GBBC19000017V
 
-#EXTINF:-1 tvg-id="ITBC2100001G9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (IT) (Sam)
+#EXTINF:-1 tvg-id="ITBC2100001G9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música",KO  Vevo Pop (IT) (Sam)
 https://jmp2.uk/stvp-ITBC2100001G9
 
 #EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo pop.png" group-title="Música", Vevo Pop (US) (Plu)
@@ -425,7 +425,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 =======
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 
-#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo r&b.png" group-title="Música", Vevo R&B (US) (Plu)
+#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e"  tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo r&b.png" group-title="Música",KO  Vevo R&B (US) (Plu)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
@@ -435,14 +435,14 @@ https://jmp2.uk/stvp-ESBD230000289
 #EXTINF:-1 tvg-id="FRBD1900013CB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo retro.png" group-title="Música;Chachi", Vevo Retro (FR) (Sam)
 https://jmp2.uk/stvp-FRBD1900013CB
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo retro rock.png" group-title="Música;Chicha", Vevo Retro Rock (AU) (Sam)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo retro rock.png" group-title="Música;Chicha",KO  Vevo Retro Rock (AU) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 <<<<<<< Updated upstream
 #EXTINF:-1 tvg-id="USBD3000145P" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo rock.png" group-title="Música;Chicha", Vevo Rock (US) (Plu)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 =======
-#EXTINF:-1 tvg-id="USBD3000145P" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo rock.png" group-title="Música;Chicha", Vevo Rock (US) (Sam)
+#EXTINF:-1 tvg-id="USBD3000145P" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo rock.png" group-title="Música;Chicha",KO  Vevo Rock (US) (Sam)
 https://jmp2.uk/stvp-USBD3000145P
 >>>>>>> Stashed changes
 
@@ -484,13 +484,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Happy Holidays.png" group-title="Música", XITE Happy Holidays (CA) (Sam)
 https://jmp2.uk/stvp-CABD17000043J
 
-#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (AL) (Sam)
+#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música",KO  XITE Hits (AL) (Sam)
 https://jmp2.uk/stvp-DEBA2200007V6
 
 #EXTINF:-1 tvg-id="GBBB3800005QO" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (GB) (LG)
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (US) (Sam)
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música",KO  XITE Hits (US) (Sam)
 https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Just Chill.png" group-title="Música", XITE Just Chill (US) (Sam)
@@ -623,10 +623,10 @@ https://lotus.stingray.com/ads/ose-232ads-montreal/lgchannels/master.m3u8?ads.ip
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ambient T-Storm.png" group-title="Relax", Ambient T-Storm 1-8 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/52/19/10682123/hls-hi/s10682123.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cityscapes.png" group-title="Relax", Cityscapes x Stingray (Vid)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cityscapes.png" group-title="Relax",KO  Cityscapes x Stingray (Vid)
 https://di4chcy8fb6ab.cloudfront.net/11002/88817964/hls/master.m3u8?ads.xumo_channelId=88817964&ads.csid=hisensechannels_us_stingraycityscapes_ssai&ads.caid=StingrayCityscapes&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_coppa=0&ads.xumo_contentId=4246&ads.xumo_contentName=StingrayCityscapes&ads.xumo_providerId=4246&ads.xumo_providerName=StingrayCityscapes&ads._fw_content_rating=TV-PG&ads.xumo_streamId=88817964&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9595
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cozy Cafe.png" group-title="Relax", Cozy Cafe x Stingray (US) (Xum)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cozy Cafe.png" group-title="Relax",KO  Cozy Cafe x Stingray (US) (Xum)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047
 
 #EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Lounge.png" group-title="Relax", Deluxe Lounge (Rak)
@@ -635,7 +635,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (AU) (TCL)
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (BR) (TCL)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax",KO  Drone TV (BR) (TCL)
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (FR) (TCL)
@@ -644,37 +644,37 @@ https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (US)
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DroneTV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (US) (TCL)
+#EXTINF:-1 tvg-id="DroneTV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax",KO  Drone TV (US) (TCL)
 https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES2200001SF" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Fireplace Vibes.png" group-title="Relax", Fireplace Vibes (ES) (Sam)
+#EXTINF:-1 tvg-id="ES2200001SF" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Fireplace Vibes.png" group-title="Relax",KO  Fireplace Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES2200001SF
 
 #EXTINF:-1 tvg-id="Fish.Tank.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SoniCentric Fish Tank.png" group-title="Relax", Fish Tank 1-2 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/8f/47/10682090/hls-hi/s10682090.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/H2O TV.png" group-title="Relax", H2O TV (TCL)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/H2O TV.png" group-title="Relax",KO  H2O TV (TCL)
 https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Nature Moments.png" group-title="Relax", Nature Moments (Rok)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Nature Moments.png" group-title="Relax",KO  Nature Moments (Rok)
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 
 #EXTINF:-1 tvg-id="CAAJ3400003T7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Naturescape.png" group-title="Relax", Naturescape x Stingray (CA) (Sam)
 https://jmp2.uk/stvp-CAAJ3400003T7
 
-#EXTINF:-1 tvg-id="610a9ebe8c2ac2000734776e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Naturescape.png" group-title="Relax", Naturescape x Stingray (ES) (Ple)
+#EXTINF:-1 tvg-id="610a9ebe8c2ac2000734776e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Naturescape.png" group-title="Relax",KO  Naturescape x Stingray (ES) (Ple)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62fbf36c1567211fdb82e920.m3u8
 
-#EXTINF:-1 tvg-id="NatureStream.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureStream.png" group-title="Relax", NatureStream (Dis)
+#EXTINF:-1 tvg-id="NatureStream.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureStream.png" group-title="Relax",KO  NatureStream (Dis)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/06a68aa6-5f02-4d49-81fb-7caa38d0ccfe/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureVision.png" group-title="Relax", NatureVision (US) (Xum)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureVision.png" group-title="Relax",KO  NatureVision (US) (Xum)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106
 
-#EXTINF:-1 tvg-id="NOMADslow.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NOMADslow.png" group-title="Relax", NOMADslow (Dis)
+#EXTINF:-1 tvg-id="NOMADslow.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NOMADslow.png" group-title="Relax",KO  NOMADslow (Dis)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8?ads.vf=VGLxlI2mX5S
 
-#EXTINF:-1 tvg-id="US700012OU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocean Vibes.png" group-title="Relax", Ocean Vibes (US) (Sam)
+#EXTINF:-1 tvg-id="US700012OU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocean Vibes.png" group-title="Relax",KO  Ocean Vibes (US) (Sam)
 https://jmp2.uk/stvp-US700012OU
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Relaxing Bossa Nova Cafe.png" group-title="Relax", Relaxing Bossa Nova Cafe 1-5 x SoniCentric (Faw)
@@ -686,13 +686,13 @@ https://ftmain.cachefly.net/files/a8wn4hw/vi/ad/07/10682108/hls-xlo/s10682108.m3
 #EXTINF:-1 tvg-id="USBD3500013DG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray SPA.png" group-title="Relax", Spa x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992008&ads.xumo_streamId=99992008&ads.channelId=99992008&ads.ad_tag_id=9338&ads.csid=lgchannels_us_stingrayspa_ssai&ads.channelName=stingrayspa_us&ads.xumo_contentName=StingraySpa&ads.xumo_contentId=3537&ads.xumo_providerName=StingraySpa&ads.xumo_providerId=3537&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Stargaze.png" group-title="Relax", Stargaze x Stingray (Vid)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Stargaze.png" group-title="Relax",KO  Stargaze x Stingray (Vid)
 https://di4chcy8fb6ab.cloudfront.net/11002/88817974/hls/master.m3u8?ads.xumo_channelId=88817974&ads.csid=hisensechannels_us_stingraystargaze_ssai&ads.caid=StingrayStargaze&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_coppa=0&ads.xumo_contentId=4249&ads.xumo_contentName=StingrayStargaze&ads.xumo_providerId=4249&ads.xumo_providerName=StingrayStargaze&ads._fw_content_rating=TV-PG&ads.xumo_streamId=88817974&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9586
 
 #EXTINF:-1 tvg-id="Study.Lounge.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Study Lounge.png" group-title="Relax", Study Lounge 1-3 x SoniCentric (Faw)
 https://ftmain.cachefly.net/files/a8wn4hw/vi/40/33/10682178/hls-hi/s10682178.m3u8
 
-#EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax", ZenLIFE x Stingray (US) (LG)
+#EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax",KO  ZenLIFE x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.xumo_streamId=99992099&ads.channelId=99992099&ads.ad_tag_id=36042&ads.csid=lgchannels_us_stingrayzenlife_ssai&ads.channelName=stingrayzenlife_us&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.xumo_providerName=StingrayZenlifeUS&ads.xumo_providerId=3975&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 # DJ
@@ -703,7 +703,7 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Best.png" group-title="DJ", Best of Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Clubbing.png" group-title="DJ", Clubbing TV (ES) (Rak)
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Clubbing.png" group-title="DJ",KO  Clubbing TV (ES) (Rak)
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Deep House.png" group-title="DJ", Deep House x Dance TV (HO)
@@ -742,10 +742,10 @@ https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ESBD80000288" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Accion.png" group-title="Varios", Acción (Run) (720p)
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Accion.png" group-title="Varios", Acción Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Accion.png" group-title="Varios",KO  Acción Hits x Sony One (LG) (1080p)
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.ARTFLIX.-.Movie.Classics.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ArtFlix.png" group-title="Varios", ArtFlix (LG) (720p)
+#EXTINF:-1 tvg-id="plex.tv.ARTFLIX.-.Movie.Classics.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ArtFlix.png" group-title="Varios",KO  ArtFlix (LG) (720p)
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/AXN.png" group-title="Varios", AXN (720p)
@@ -777,7 +777,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="cine-friki" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Friki.png" group-title="Varios", Cine Friki (Rak) (1080p)
+#EXTINF:-1 tvg-id="cine-friki" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Friki.png" group-title="Varios",KO  Cine Friki (Rak) (1080p)
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=a7ef3a90-ff9c-44f8-8efa-9d1dc508848d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="cines-verdi" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cines Verdi.png" group-title="Varios", Cines Verdi (Run) (720p)
@@ -790,7 +790,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ESBD230000143" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FreeTV Clasico.png" group-title="Varios", Clásico FreeTV (Sam) (1080p)
+#EXTINF:-1 tvg-id="ESBD230000143" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FreeTV Clasico.png" group-title="Varios",KO  Clásico FreeTV (Sam) (1080p)
 https://jmp2.uk/stvp-ESBD230000143
 
 #EXTINF:-1 tvg-id="RunTime Clásicos" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Clasicos.png" group-title="Varios", Clásicos (Run) (720p)
@@ -816,7 +816,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68de3db35fc0afe85de0b843/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Comedia.png" group-title="Varios", Comedia Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Comedia.png" group-title="Varios",KO  Comedia Hits x Sony One (LG) (1080p)
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia Made in Spain.png" group-title="Varios", Comedia Made in Spain (Plu) (720p)
@@ -836,13 +836,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/655b5d865812e80008843bd1/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Comedia.png" group-title="Varios", Comedia Series x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Comedia.png" group-title="Varios",KO  Comedia Series x Sony One (LG) (1080p)
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-crimen" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Crimen.png" group-title="Varios", Crimen (Run) (720p)
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
-#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dark Matter.png" group-title="Varios", Dark Matter - Horror Visión (Rak) (720p)
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dark Matter.png" group-title="Varios",KO  Dark Matter - Horror Visión (Rak) (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=d34331dd-008e-4426-a7cf-f9bef5d572bc&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019
 
 #EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Drama.png" group-title="Varios", Drama (Plu) (720p)
@@ -865,7 +865,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="family-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/En Familia.png" group-title="Varios", En Familia (Rak) (1080p)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ec446cc9-df31-401f-8884-f517ef656451&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Exitos.png" group-title="Varios", Éxitos x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Exitos.png" group-title="Varios",KO  Éxitos x Sony One (LG) (1080p)
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES700004C8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Familia.png" group-title="Varios", Familia (Run) (720p)
@@ -874,10 +874,10 @@ https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 tvg-id="feelgood" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FeelGood.png" group-title="Varios", FeelGood (Run) (720p)
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 
-#EXTINF:-1 tvg-id="ES4200001MR" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Moviesphere.png" group-title="Varios", Moviesphere (Sam)
+#EXTINF:-1 tvg-id="ES4200001MR" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Moviesphere.png" group-title="Varios",KO  Moviesphere (Sam)
 https://jmp2.uk/stvp-ES4200001MR
 
-#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MyTime Movie Network.png" group-title="Varios", MyTime Movie Network (Sam) (720p)
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MyTime Movie Network.png" group-title="Varios",KO  MyTime Movie Network (Sam) (720p)
 https://jmp2.uk/stvp-ESBA2200004G5
 
 #EXTINF:-1 tvg-id="68d566603d3a9580eb461251" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Paramount Network.png" group-title="Varios", Paramount Network (Plu)
@@ -913,7 +913,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES33000058B" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Somos Cine.png" group-title="Varios", RTVE Somos Cine (Sam)
+#EXTINF:-1 tvg-id="ES33000058B" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Somos Cine.png" group-title="Varios",KO  RTVE Somos Cine (Sam)
 https://jmp2.uk/stvp-ES33000058B
 
 #EXTINF:-1 tvg-id="ESBC400001QQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Cine.png" group-title="Varios", Runtime Cine (Sam) (720p)
@@ -936,16 +936,16 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 <<<<<<< Updated upstream
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/676e7b4a4bd636000819c6a7/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios", Series (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios",KO  Series (Plu) (720p)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 =======
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/676e7b4a4bd636000819c6a7/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios", Series (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios",KO  Series (Plu) (720p)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Series.png" group-title="Varios", Series BBC (360p)
+#EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Series.png" group-title="Varios",KO  Series BBC (360p)
 https://jmp2.uk/stvp-ES2900001DQ
 
 #EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Series Sci-Fi.png" group-title="Varios", Series Sci-Fi (Plu) (720p)
@@ -977,10 +977,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="ES900002ZD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Todo Pasion.png" group-title="Varios", Todo Pasión (Sam) (1080p)
 https://jmp2.uk/stvp-ES900002ZD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Trailers.png" group-title="Varios", Trailers (Rak) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Trailers.png" group-title="Varios",KO  Trailers (Rak) (720p)
 https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cb0eb574-cb09-48a9-99b4-877d27260d7e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
 
-#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SamsungTV Trailers.png" group-title="Varios", Trailers (ES) (Sam) (1080p)
+#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SamsungTV Trailers.png" group-title="Varios",KO  Trailers (ES) (Sam) (1080p)
 https://amg01821-lovetvchannels-lovemagazinees-samsungspain-zll2b.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.gdpr=%7BGDPR%7D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Trash.png" group-title="Varios", Trash (Run) (720p)
@@ -995,10 +995,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 # Docus
 
-#EXTINF:-1 tvg-id="plex.tv.Buen.Viaje.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Buen Viaje.png" group-title="Docus", Buen Viaje (Ple)
+#EXTINF:-1 tvg-id="plex.tv.Buen.Viaje.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Buen Viaje.png" group-title="Docus",KO  Buen Viaje (Ple)
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67.m3u8
 
-#EXTINF:-1 tvg-id="ES1400002CJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Curiosity Now.png" group-title="Docus", Curiosity Now (Sam)
+#EXTINF:-1 tvg-id="ES1400002CJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Curiosity Now.png" group-title="Docus",KO  Curiosity Now (Sam)
 https://jmp2.uk/stvp-ES1400002CJ
 
 #EXTINF:-1 tvg-id="64db2e0835425100080f2f5a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Diseño.png" group-title="Docus", Diseño (Plu)
@@ -1038,13 +1038,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="plex.tv.Mi.Casa.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Mi Casa.png" group-title="Docus", Mi Casa (LG)
+#EXTINF:-1 tvg-id="plex.tv.Mi.Casa.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Mi Casa.png" group-title="Docus",KO  Mi Casa (LG)
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992222&ads.csid=lgchannels_[COUNTRY]_IndigeniusMiCasaSpanish_ssai&ads.content_language=es&ads.content_category=IAB8&ads.content_genre=Food%20TV&ads.content_rating=tv-g&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_contentId=2160&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992222&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="ES33000036Q" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/RTVE Docs.png" group-title="Docus", RTVE Docs (Sam)
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/RTVE Docs.png" group-title="Docus",KO  RTVE Docs (Sam)
 https://jmp2.uk/stvp-ES33000036Q
 
-#EXTINF:-1 tvg-id="ES2700002YP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Top Gear.png" group-title="Docus", Top Gear (Sam)
+#EXTINF:-1 tvg-id="ES2700002YP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Top Gear.png" group-title="Docus",KO  Top Gear (Sam)
 https://jmp2.uk/stvp-ES2700002YP
 
 #EXTINF:-1 tvg-id="61bb2814ac085a00074309a6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Unidad de investigacion.png" group-title="Docus", Unidad de investigación (Plu)
@@ -1054,10 +1054,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61bb2814ac085a00074309a6/master.m3u8?marketingRegion=ES&sid=56d7017d-1dcf-4e82-a20e-a532aa862f61&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxMTU4ZTM5LWNiMTYtNGVhNC04MzkwLTdkZTBjOTU1OGZhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMGVkNTNlMy02NzQ5LTExZjEtOWVhZi00NmMyNWQ0ODNjMGEiLCJjbGllbnRJUCI6Ijc5LjExNy4yNTMuMTk3IiwiY2l0eSI6IkNhbXBhbmlsbGFzIiwicG9zdGFsQ29kZSI6IjI5NTkwIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6MzYuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi00LjUzMDAwMDIwOTgwODM1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIxLjAtYmY5ZjViNDM2OTkzMzc0Mjg1OWYzYjI1ODFjOTM1MTEwOTIyZjY0MiIsImNsaWVudElEIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImZ3VmNJRDJDb3BwYSI6IjVjMjZiNThkLTI0MTYtNDc3Ny1hZTdhLWMzMDZjYWRhOTFjOCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNWMyNmI1OGQtMjQxNi00Nzc3LWFlN2EtYzMwNmNhZGE5MWM4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxMywxMDAyMCwxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MTM2OTg2NzEwMiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5XTXlObUkxT0dRdE1qUXhOaTAwTnpjM0xXRmxOMkV0WXpNd05tTmhaR0U1TVdNNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODE0NTYyNjcsImlhdCI6MTc4MTM2OTg2NywianRpIjoiN2UxYTg5ZjAtMTkxZi00NTZjLTkyNDYtMGNhYWJkNmE2NDZmIn0.m4UXob3uYQq_mxRFqhIJQOn-Ir3GPsAIsqPQdWBw2yI&masterJWTPassthrough=true
 >>>>>>> Stashed changes
 
-#EXTINF:-1 tvg-id="ES300033TI" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Viajes y Sabores.png" group-title="Docus", Viajes y Sabores (LG)
+#EXTINF:-1 tvg-id="ES300033TI" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Viajes y Sabores.png" group-title="Docus",KO  Viajes y Sabores (LG)
 https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Xataka.png" group-title="Docus", Xataka (Ple)
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Xataka.png" group-title="Docus",KO  Xataka (Ple)
 https://jmp2.uk/plex-643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8
 
 # Noticias
@@ -1065,13 +1065,13 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8
 #EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Actualidad 360.png" group-title="Noticias", Actualidad 360 (TCL)
 https://amg01821-amg01821c27-tcl-spain-5969.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES34000039I" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CNN.png" group-title="Noticias", CNN en Español (LG)
+#EXTINF:-1 tvg-id="ES34000039I" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CNN.png" group-title="Noticias",KO  CNN en Español (LG)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/DW.png" group-title="Noticias", DW
+#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/DW.png" group-title="Noticias",KO  DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/El Confidencial.png" group-title="Noticias", El Confidencial (Sam)
+#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/El Confidencial.png" group-title="Noticias",KO  El Confidencial (Sam)
 https://jmp2.uk/stvp-ESBC1400001L8
 
 #EXTINF:-1 tvg-id="el-pais" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/El Pais.png" group-title="Noticias", El País (Rak)
@@ -1080,7 +1080,7 @@ https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregi
 #EXTINF:-1 tvg-id="Euronews.Español.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Euronews.png" group-title="Noticias", Euronews (Rak)
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiYjY3MGIwZGItNjJhNi00OWY5LTliZDktMjg0ZmUwMzY1NmZkIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=b670b0db-62a6-49f9-9bd9-284fe03656fd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="Negocios.TV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Negocios TV.png" group-title="Noticias", Negocios TV (Vid)
+#EXTINF:-1 tvg-id="Negocios.TV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Negocios TV.png" group-title="Noticias",KO  Negocios TV (Vid)
 https://negociostv-negociostv-vidaa.amagi.tv/hls/amagi_hls_data_vidaaAAAA-negociostv-negociostv-vidaa/CDN/master.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9110
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/RT.png" group-title="Noticias", RT
@@ -1127,5 +1127,5 @@ http://190.60.37.118:4000/play/a09j
 #EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN Premium.png" group-title="Deporte", ESPN Premium (1080p)
 http://45.181.122.46:8090/play/a015
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sky Sports LaLiga.png" group-title="Deporte", Sky Sports LaLiga (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sky Sports LaLiga.png" group-title="Deporte",KO  Sky Sports LaLiga (1080p)
 http://190.92.10.66:4000/play/a001/index.m3u8
