@@ -5,14 +5,8 @@
 
 # Música
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/30A Music.png" group-title="Música", 30A Music (US) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/30A Music.png" group-title="Música", 30A Music (US)
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-
-#EXTINF:-1 tvg-id="4ACETV.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV.png" group-title="Música", 4ACETV (Dis)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=q3Su2ZgYPUi
-
-#EXTINF:-1 tvg-id="4ACETV.CLASSIC.HITS.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/4ACETV Classic Hits.png" group-title="Música", 4ACETV Classic Hits (Dis)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.channel_name=4ACETV+CLASSIC+HITS&ads.content_id=SON102&ads.coppa=0&ads.provider=Onajobi+LTD&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=137063&ads.show_id=5250&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CClassic%20Hits%2CMusic%20Video%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4ACETV%20CLASSIC%20HITS&ads.episodetitle=4ACETV%20CLASSIC%20HITS&ads.keywords=music%2Cclassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251201
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/7 YOU & ME.png" group-title="Música", 7 YOU & ME (IT)
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
@@ -38,9 +32,8 @@ https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/CMT Equal Play.png" group-title="Música", CMT Equal Play (US) (Plu)
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
-#EXTINF:-1 tvg-id="ES1200003SI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1200003SI_20260528T055728SQUARE.png" group-title="Música", Concerto (ES) (Sam)
+#EXTINF:-1 tvg-id="ES1200003SI" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Concerto.png" group-title="Música", Concerto (ES) (Sam)
 https://jmp2.uk/stvp-ES1200003SI
-
 
 #EXTINF:-1 tvg-id="ES2500001F9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cool Summer Channel.png" group-title="Música", Cool Summer Channel (ES) (Sam)
 https://jmp2.uk/stvp-ES2500001F9
@@ -57,10 +50,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="DEBA150003050" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Deutschpop.png" group-title="Música", Deluxe Deutschpop (AL) (Sam)
 https://jmp2.uk/stvp-DEBA150003050
 
-#EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Music.png" group-title="Música", Deluxe Music (AL) (720p)
+#EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Music.png" group-title="Música", Deluxe Music (AL)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AL) (1080p)
+#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AL)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-id="DE340000678" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Summer.png" group-title="Música", Deluxe Summer (AL) (Sam)
@@ -72,30 +65,29 @@ https://jmp2.uk/stvp-USBD3500025GS
 #EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Emotion.png" group-title="Música", Émotion (FR) (Sam)
 https://jmp2.uk/stvp-FRBC900001LB
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Energy TV Music.png" group-title="Música", Energy TV Music (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Energy TV Music.png" group-title="Música", Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w1068041603_b1896000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Eternal Metal.png" group-title="Música;Chicha", Eternal Metal (CL) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Eternal Metal.png" group-title="Música;Chicha", Eternal Metal (CL)
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Euro Indie Music Chart.png" group-title="Música", Euro Indie Music Chart (IT) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Euro Indie Music Chart.png" group-title="Música", Euro Indie Music Chart (IT)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC11000108G" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Hip Hop TV.png" group-title="Música", Hip Hop TV (IT) (Sam)
 https://jmp2.uk/stvp-ITBC11000108G
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Hit FM.png" group-title="Música", Hit FM TV (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Hit FM.png" group-title="Música", Hit FM TV (ES)
 https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray iConcerts.png" group-title="Música", iConcerts x Stingray (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray iConcerts.png" group-title="Música", iConcerts x Stingray
 https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Impact Dance TV.png" group-title="Música", Impact Dance TV (GR) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Impact Dance TV.png" group-title="Música", Impact Dance TV (GR)
 https://online.tvimpact.live/hls/dancetv.m3u8
 
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Karaoke.png" group-title="Música", Karaoke x Stingray (AR) (Plu)
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-
 
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Karaoke.png" group-title="Música", Karaoke x Stingray (BR) (Sam)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
@@ -106,20 +98,19 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999207
 #EXTINF:-1 tvg-id="ES3900001QG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/K-Pop.png" group-title="Música", K-Pop (ES) (Sam)
 https://jmp2.uk/stvp-ES3900001QG
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Kronehit.png" group-title="Música", Kronehit (AT) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Kronehit.png" group-title="Música", Kronehit (AT)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Live Music Replay.png" group-title="Música", Live Music Replay (US) (Plu)
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/m2o.png" group-title="Música", m2o (IT) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/m2o.png" group-title="Música", m2o (IT)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV BG.png" group-title="Música", Magic TV (BG) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV BG.png" group-title="Música", Magic TV (BG)
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV.png" group-title="Música", Magic TV (RM) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV.png" group-title="Música", Magic TV (RM)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
 #EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Rocks.png" group-title="Música;Chicha", Metal Rocks (GB) (Rak)
@@ -134,14 +125,17 @@ https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 #EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Classic.png" group-title="Música", MTV Classic (BR) (Plu)
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 
-#EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Classic.png" group-title="Música", MTV Classic (Plu)
+#EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Classic.png" group-title="Música", MTV Classic (CA) (Plu)
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
-#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Classic.png" group-title="Música", MTV Classic (Plu)
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Classic.png" group-title="Música", MTV Classic (MX) (Plu)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
 #EXTINF:-1 tvg-id="66a01e07d2d50d0008100d6a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (BR) (Plu)
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+
+#EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Rock.png" group-title="Música;Chicha", MTV Rock (MX) (Plu)
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
 #EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Spankin' New.png" group-title="Música", MTV Spankin' New (US) (Plu)
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
@@ -149,14 +143,20 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV YO.png" group-title="Música", MTV YO! (US) (Plu)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Classic.png" group-title="Música;Chachi", Music Box Classic (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Classic.png" group-title="Música;Chachi", Music Box Classic
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music TV Granada.png" group-title="Música", Music TV Granada (ES) (1080p)
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Dance.png" group-title="Música", Music Box Dance
+http://88.212.15.19/live/mb_dance/index.m3u8
 
-#EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NRG 91 FM.png" group-title="Música", Next Radio Generation 91 FM (GR) (720p)
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Hits.png" group-title="Música", Music Box Hits
+http://88.212.15.19/live/mb_hits/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Sexy.png" group-title="Música", Music Box Sexy
+http://88.212.15.19/live/mb_sexy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music TV Granada.png" group-title="Música", Music TV Granada (ES)
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/New KPOP.png" group-title="Música", New KPOP (US) (TCL)
 https://b62222b243074e22bae1184e1d24b9cc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus-ca_NewKPop/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKPop&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
@@ -173,28 +173,25 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/that's ROCK.png" group-title="Música;Chicha", that's ROCK (Rak)
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Black.png" group-title="Música", Ocko Black (CH) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Black.png" group-title="Música", Ocko Black (CH)
 https://dash4.antik.sk/live/test_ocko_black/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Expres.png" group-title="Música", Ocko Expres (CH) (1080p)
+#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Expres.png" group-title="Música", Ocko Expres (CH)
 https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Star.png" group-title="Música", Ocko Star (CH) (1080p)
+#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko Star.png" group-title="Música", Ocko Star (CH)
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko TV.png" group-title="Música", Ocko TV (CH) (540p)
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocko TV.png" group-title="Música", Ocko TV (CH)
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/OurVinyl.png" group-title="Música", OurVinyl (Dis)
-https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23208&ads.content_duration=18000&ads.episode_id=138920&ads.show_id=5294&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CEntertainment%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=OurVinyl&ads.episodetitle=OurVinyl&ads.keywords=music%2Clive%20music%2Cmusic%20videos%2Cindie%2Cperformance&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251201
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pervyj.png" group-title="Música", Pervyj MUZ (BLR) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pervyj.png" group-title="Música", Pervyj MUZ (BLR)
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Power Love.png" group-title="Música", Power Love (TR) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Power Love.png" group-title="Música", Power Love (TR)
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pulse Rock TV.png" group-title="Música;Chicha", Pulse Rock TV (US) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pulse Rock TV.png" group-title="Música;Chicha", Pulse Rock TV (US)
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
 
 #EXTINF:-1 tvg-id="64240d3d466225000827412b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Qello Concerts.png" group-title="Música", Qello Concerts x Stingray (CA) (Sam)
@@ -203,55 +200,55 @@ https://jmp2.uk/stvp-CA400004SM
 #EXTINF:-1 tvg-id="qwest-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Qwest.png" group-title="Música", Qwest TV (Rak)
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio 51 TV.png" group-title="Música", Radio 51 TV (IT) (576p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio 51 TV.png" group-title="Música", Radio 51 TV (IT)
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Bruno TV.png" group-title="Música", Radio Bruno TV (IT) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Bruno TV.png" group-title="Música", Radio Bruno TV (IT)
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Capital.png" group-title="Música", Radio Capital (IT) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Capital.png" group-title="Música", Radio Capital (IT)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Citta.png" group-title="Música", Radio Citta (IT) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Citta.png" group-title="Música", Radio Citta (IT)
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Ibiza TV.png" group-title="Música", Radio Ibiza TV (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Ibiza TV.png" group-title="Música", Radio Ibiza TV (ES)
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Love FM.png" group-title="Música", Radio Love FM (IT) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Love FM.png" group-title="Música", Radio Love FM (IT)
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Piter Pan.png" group-title="Música", Radio Piter Pan TV (IT) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Radio Piter Pan.png" group-title="Música", Radio Piter Pan TV (IT)
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/REBEL.png" group-title="Música;Chicha", REBEL (CH) (576p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/REBEL.png" group-title="Música;Chicha", REBEL (CH)
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Recuerdos Retro.png" group-title="Música", Recuerdos Retro (CL) (480p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Recuerdos Retro.png" group-title="Música", Recuerdos Retro (CL)
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Music.png" group-title="Música", Retro Music (CH) (576p)
+#EXTINF:-1 tvg-id="Retro.cz" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Music.png" group-title="Música", Retro Music (CH)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Plus 1.png" group-title="Música", Retro Plus 1 (CL) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Plus 1.png" group-title="Música", Retro Plus 1 (CL)
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Plus 2.png" group-title="Música", Retro Plus 2 (CL) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Plus 2.png" group-title="Música", Retro Plus 2 (CL)
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV CR.png" group-title="Música;Chicha", Rock TV Radio (CR) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV CR.png" group-title="Música;Chicha", Rock TV Radio (CR)
 https://cloudvideo.servers10.com:8081/8038/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock CHDTV.png" group-title="Música;Chicha", Rock CHDTV (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock CHDTV.png" group-title="Música;Chicha", Rock CHDTV
 http://194.26.229.213/chdtv_rock/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV BR.png" group-title="Música;Chicha", Rock TV (BR) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV BR.png" group-title="Música;Chicha", Rock TV (BR)
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV IT.png" group-title="Música;Chicha", Rock TV (IT) (Sam)
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rock.TV.ro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV.png" group-title="Música;Chicha", Rock TV (RM) (720p)
+#EXTINF:-1 tvg-id="Rock.TV.ro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV.png" group-title="Música;Chicha", Rock TV (RM)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="Rockola.Television.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rockola.png" group-title="Música", Rockola TV (Dis)
@@ -269,17 +266,20 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/p
 #EXTINF:-1 tvg-id="ESBD2300004Y7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sol Musica.png" group-title="Música", Sol Música (ES) (Sam)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spektra.png" group-title="Música", Spektra (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spektra.png" group-title="Música", Spektra (ES)
 https://cloudvideo.servers10.com:8081/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spirit TV.png" group-title="Música", Spirit TV (US) (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spirit TV.png" group-title="Música", Spirit TV (US)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/STZ Telebista.png" group-title="Música", STZ Telebista (ES) (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/STZ Telebista.png" group-title="Música", STZ Telebista (ES)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Telehit.sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Telehit.png" group-title="Música", TeleHit Música (MX)
 http://185.189.225.152/TELEHIT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/TMF.png" group-title="Música", TMF (HO) (Rak)
+https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Totalmusic.png" group-title="Música;Chachi", Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -296,10 +296,13 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Totalmusic Dance.png" group-title="Música;Chachi", Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Africa.png" group-title="Música", Trace Africa (FR)
+https://channels.trace.plus/Traceprod/AFRICA_FR/.m3u8
+
 #EXTINF:-1 tvg-id="plex.tv.TRACE.Brazuca.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Brasil.png" group-title="Música", Trace Brasil (Ple)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm849vJw/TRACE-GOSPEL.png" group-title="Música", Trace  Gospel (FR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Gospel.png" group-title="Música", Trace  Gospel (FR)
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 
 #EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Latina.png" group-title="Música", Trace Latina (ES) (Sam)
@@ -311,16 +314,19 @@ https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-id="ESBA3300043M0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Urban.png" group-title="Música", Trace Urban (ES) (Sam)
 https://trace-urban-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/V2Beat.png" group-title="Música", V2Beat (GB) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/V2Beat.png" group-title="Música", V2Beat (GB)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Dance.png" group-title="Música", Vantage Dance (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Classic.png" group-title="Música;Chachi", Vantage Classic (EST)
+https://hls.vantagetv.ee/vclassic_stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Dance.png" group-title="Música", Vantage Dance (EST)
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Music.png" group-title="Música", Vantage Music (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Music.png" group-title="Música", Vantage Music (EST)
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Rock.png" group-title="Música;Chicha", Vantage Rock (ES) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vantage Rock.png" group-title="Música;Chicha", Vantage Rock (EST)
 https://hls.vantagetv.ee/vrock_stream/main_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo 70.png" group-title="Música;Chachi", Vevo 70 (NZ) (Sam)
@@ -377,7 +383,6 @@ https://jmp2.uk/stvp-GBBD2300001C0
 #EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo iconos latinos.png" group-title="Música", Vevo Iconos Latinos (US) (Plu)
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
-
 #EXTINF:-1 tvg-id="ESBC2100002LV" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo latino.png" group-title="Música", Vevo Latino (ES) (Sam)
 https://jmp2.uk/stvp-ESBC2100002LV
 
@@ -426,8 +431,7 @@ https://jmp2.uk/stvp-DEBC21000022L
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/vevo true school hip-hop.png" group-title="Música", Vevo True School Hip-Hop (US) (Plu)
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vintage Radio TV.png" group-title="Música;Chachi", Vintage Radio TV (IT) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vintage Radio TV.png" group-title="Música;Chachi", Vintage Radio TV (IT)
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000647" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE 80s Flashback.png" group-title="Música;Chachi", XITE '80s Flashback (US) (Sam)
@@ -447,7 +451,6 @@ https://jmp2.uk/stvp-CABD120001993
 
 #EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Gospel.png" group-title="Música", XITE Gospel (US) (Plu)
 https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
-
 
 #EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Happy Holidays.png" group-title="Música", XITE Happy Holidays (CA) (Sam)
 https://jmp2.uk/stvp-CABD17000043J
@@ -479,10 +482,19 @@ https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260609T034546SQUARE.png" group-title="Música", XITE Summer (CA) (Sam)
 https://jmp2.uk/stvp-CABD17000043J
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XPTV1.png" group-title="Música", XPTV1 (GB) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XPTV1.png" group-title="Música", XPTV1 (GB)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Zerouno TV Music.png" group-title="Música", Zerouno TV Music (IT) (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Your 60s.png" group-title="Música;Chachi", Your '60s (HO) (Rak)
+https://your-60-s-nl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-5-restreaming/9fd2570a-43a9-40e3-a86a-ca449b92782f/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Your 70s.png" group-title="Música;Chachi", Your '70s (HO) (Rak)
+https://your-70-s-nl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-6-restreaming/0f15a97b-5154-4631-9605-e6cf08faeada/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Your 80s.png" group-title="Música;Chachi", Your '80s (HO) (Rak)
+https://your-80-s-nl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-3-restreaming/49f65b82-c950-43e8-82db-ad1031fc281b/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Zerouno TV Music.png" group-title="Música", Zerouno TV Music (IT)
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w1499217935.m3u8
 
 # Imágenes Dinámicas con Música
@@ -508,7 +520,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999200
 #EXTINF:-1 tvg-id="US4700002UF" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Euro Hits.png" group-title="IDM", Euro Hits x Stingray (ES) (Sam)
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="Éxitos.del.Momento.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Exitos del Momento.png" group-title="IDM", Éxitos del Momento x Stingray (Ple) (432p)
+#EXTINF:-1 tvg-id="Éxitos.del.Momento.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Exitos del Momento.png" group-title="IDM", Éxitos del Momento x Stingray (Ple)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500008IJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Flashback 70s.png" group-title="IDM", Flashback '70s x Stingray (US) (LG)
@@ -600,7 +612,7 @@ https://di4chcy8fb6ab.cloudfront.net/11002/88817964/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cozy Cafe.png" group-title="Relax", Cozy Cafe x Stingray (US) (Xum)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047
 
-#EXTINF:-1 tvg-id="ES190000224" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES190000224_20260528T055738SQUARE.png" group-title="Relax", Cozy Vibes (ES) (Sam)
+#EXTINF:-1 tvg-id="ES190000224" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cozy Vibes.png" group-title="Relax", Cozy Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES190000224
 
 #EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Lounge.png" group-title="Relax", Deluxe Lounge (Rak)
@@ -630,7 +642,7 @@ https://ftmain.cachefly.net/files/a8wn4hw/vi/8f/47/10682090/hls-hi/s10682090.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/H2O TV.png" group-title="Relax", H2O TV (TCL)
 https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES1800007GH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png" group-title="Relax", Island Vibes (ES) (Sam)
+#EXTINF:-1 tvg-id="ES1800007GH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Island Vibes.png" group-title="Relax", Island Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES1800007GH
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Nature Moments.png" group-title="Relax", Nature Moments (Rok)
@@ -642,19 +654,13 @@ https://jmp2.uk/stvp-CAAJ3400003T7
 #EXTINF:-1 tvg-id="610a9ebe8c2ac2000734776e" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Naturescape.png" group-title="Relax", Naturescape x Stingray (ES) (Ple)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62fbf36c1567211fdb82e920.m3u8
 
-#EXTINF:-1 tvg-id="NatureStream.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureStream.png" group-title="Relax", NatureStream (Dis)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/06a68aa6-5f02-4d49-81fb-7caa38d0ccfe/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NatureVision.png" group-title="Relax", NatureVision (US) (Xum)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106
-
-#EXTINF:-1 tvg-id="NOMADslow.tv.distro" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/NOMADslow.png" group-title="Relax", NOMADslow (Dis)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8?ads.vf=VGLxlI2mX5S
 
 #EXTINF:-1 tvg-id="US700012OU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Ocean Vibes.png" group-title="Relax", Ocean Vibes (US) (Sam)
 https://jmp2.uk/stvp-US700012OU
 
-#EXTINF:-1 tvg-id="ES1800006ZS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png" group-title="Relax", Rainy Day Vibes (ES) (Sam)
+#EXTINF:-1 tvg-id="ES1800006ZS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rainy Day Vibes.png" group-title="Relax", Rainy Day Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES1800006ZS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Relaxing Bossa Nova Cafe.png" group-title="Relax", Relaxing Bossa Nova Cafe 1-5 x SoniCentric (Faw)
@@ -721,23 +727,22 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
 # Varios
 
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Accion.png" group-title="Varios", Acción (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Accion.png" group-title="Varios", Acción (Plu)
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 
-
-#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Accion.png" group-title="Varios", Acción (Rak) (1080p)
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Accion.png" group-title="Varios", Acción (Rak)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1f62acb0-cc8c-4492-b62a-921d882b4989&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ESBD80000288" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Accion.png" group-title="Varios", Acción (Run) (720p)
+#EXTINF:-1 tvg-id="ESBD80000288" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Accion.png" group-title="Varios", Acción (Run)
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Accion.png" group-title="Varios", Acción Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Accion.png" group-title="Varios", Acción Hits x Sony One (LG)
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.ARTFLIX.-.Movie.Classics.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ArtFlix.png" group-title="Varios", ArtFlix (LG) (720p)
+#EXTINF:-1 tvg-id="plex.tv.ARTFLIX.-.Movie.Classics.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ArtFlix.png" group-title="Varios", ArtFlix (LG)
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/AXN.png" group-title="Varios", AXN (720p)
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/AXN.png" group-title="Varios", AXN
 http://185.189.225.152/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700003T8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Bigtime Películas Gratis.png" group-title="Varios", Bigtime Películas Gratis (Sam)
@@ -755,171 +760,151 @@ https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Estelar.png" group-title="Varios", Cine Estelar (Plu)
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 
-
-#EXTINF:-1 tvg-id="cine-friki" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Friki.png" group-title="Varios", Cine Friki (Rak) (1080p)
+#EXTINF:-1 tvg-id="cine-friki" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Friki.png" group-title="Varios", Cine Friki (Rak)
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=a7ef3a90-ff9c-44f8-8efa-9d1dc508848d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="cines-verdi" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cines Verdi.png" group-title="Varios", Cines Verdi (Run) (720p)
+#EXTINF:-1 tvg-id="cines-verdi" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cines Verdi.png" group-title="Varios", Cines Verdi (Run)
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 
-#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Clasico.png" group-title="Varios", Clásico (Plu) (684p)
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cine Clasico.png" group-title="Varios", Clásico (Plu)
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-
 
 #EXTINF:-1 tvg-id="ESBD230000143" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FreeTV Clasico.png" group-title="Varios", Clásico FreeTV (LG)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16193&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
-#EXTINF:-1 tvg-id="RunTime Clásicos" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Clasicos.png" group-title="Varios", Clásicos (Run) (720p)
+#EXTINF:-1 tvg-id="RunTime Clásicos" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Clasicos.png" group-title="Varios", Clásicos (Run)
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Comedia.png" group-title="Varios", Comedia (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Comedia.png" group-title="Varios", Comedia (Plu)
 https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
 
-
-#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Comedia.png" group-title="Varios", Comedia (Rak) (1080p)
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Comedia.png" group-title="Varios", Comedia (Rak)
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=31d93588-faa0-42b0-83e9-0918205aa0f2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ESBD8000033W" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Comedia.png" group-title="Varios", Comedia (Run) (720p)
+#EXTINF:-1 tvg-id="ESBD8000033W" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Comedia.png" group-title="Varios", Comedia (Run)
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 
 #EXTINF:-1 tvg-id="68de3db35fc0afe85de0b843" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia a lo bestia.png" group-title="Varios", Comedia a lo bestia (Plu)
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 
-
-#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Comedia.png" group-title="Varios", Comedia Hits x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Hits Comedia.png" group-title="Varios", Comedia Hits x Sony One (LG)
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia Made in Spain.png" group-title="Varios", Comedia Made in Spain (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia Made in Spain.png" group-title="Varios", Comedia Made in Spain (Plu)
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 
-
-#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia Made in Spain.png" group-title="Varios", Comedia Made in Spain (Sam) (720p)
+#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedia Made in Spain.png" group-title="Varios", Comedia Made in Spain (Sam)
 https://jmp2.uk/stvp-ESAJ3800005C5
 
-#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedias Romanticas.png" group-title="Varios", Comedias Románticas (Plu) (720p)
+#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Comedias Romanticas.png" group-title="Varios", Comedias Románticas (Plu)
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 
-
-#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Comedia.png" group-title="Varios", Comedia Series x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Comedia.png" group-title="Varios", Comedia Series x Sony One (LG)
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="runtime-crimen" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Crimen.png" group-title="Varios", Crimen (Run) (720p)
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Crimen.png" group-title="Varios", Crimen (Run)
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
-#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dark Matter.png" group-title="Varios", Dark Matter - Horror Visión (Rak) (720p)
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dark Matter.png" group-title="Varios", Dark Matter - Horror Visión (Rak)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=d34331dd-008e-4426-a7cf-f9bef5d572bc&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019
 
-#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Drama.png" group-title="Varios", Drama (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Drama.png" group-title="Varios", Drama (Plu)
 https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
 
-
-#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Drama.png" group-title="Varios", Drama (Rak) (252p)
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Drama.png" group-title="Varios", Drama (Rak)
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=69e8a85a-a1d1-4b32-8daa-968e043a2633&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Drama.png" group-title="Varios", Drama BBC (Plu) (720p)
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Drama.png" group-title="Varios", Drama BBC (Plu)
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 
-
-#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/En Familia.png" group-title="Varios", En Familia (Rak) (1080p)
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/En Familia.png" group-title="Varios", En Familia (Rak)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ec446cc9-df31-401f-8884-f517ef656451&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Exitos.png" group-title="Varios", Éxitos x Sony One (LG) (1080p)
+#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Exitos.png" group-title="Varios", Éxitos x Sony One (LG)
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES700004C8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Familia.png" group-title="Varios", Familia (Run) (720p)
+#EXTINF:-1 tvg-id="ES700004C8" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Familia.png" group-title="Varios", Familia (Run)
 https://jmp2.uk/stvp-ES700004C8
 
-#EXTINF:-1 tvg-id="feelgood" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FeelGood.png" group-title="Varios", FeelGood (Run) (720p)
+#EXTINF:-1 tvg-id="feelgood" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FeelGood.png" group-title="Varios", FeelGood (Run)
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 
 #EXTINF:-1 tvg-id="ES4200001MR" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Moviesphere.png" group-title="Varios", Moviesphere (Sam)
 https://jmp2.uk/stvp-ES4200001MR
 
-#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MyTime Movie Network.png" group-title="Varios", MyTime Movie Network (Sam) (720p)
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MyTime Movie Network.png" group-title="Varios", MyTime Movie Network (Sam)
 https://jmp2.uk/stvp-ESBA2200004G5
 
 #EXTINF:-1 tvg-id="68d566603d3a9580eb461251" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Paramount Network.png" group-title="Varios", Paramount Network (Plu)
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 
-
-#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pelis Top.png" group-title="Varios", Pelis Top (Rak) (1080p)
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pelis Top.png" group-title="Varios", Pelis Top (Rak)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=61583c10-e3e4-4b36-b2c5-43a2d3b581b2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ES2800001G7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Planeta de Cine.png" group-title="Varios", Planeta de Cine (Sam) (1080p)
+#EXTINF:-1 tvg-id="ES2800001G7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Planeta de Cine.png" group-title="Varios", Planeta de Cine (Sam)
 https://jmp2.uk/stvp-ES2800001G7
 
-#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Psycho.png" group-title="Varios", Psycho (Plu) (720p)
+#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Psycho.png" group-title="Varios", Psycho (Plu)
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 
-
-#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Romantico.png" group-title="Varios", Romántico (Rak) (1080p)
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Romantico.png" group-title="Varios", Romántico (Rak)
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=dda250d0-8d4d-4a97-8e97-f10c5e2cb9fe&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="ESBD800004KU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Romance.png" group-title="Varios", Romance (Run) (720p)
+#EXTINF:-1 tvg-id="ESBD800004KU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Romance.png" group-title="Varios", Romance (Run)
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
-#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Romantico.png" group-title="Varios", Romántico (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Cine Romantico.png" group-title="Varios", Romántico (Plu)
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-
 
 #EXTINF:-1 tvg-id="ES33000058B" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Somos Cine.png" group-title="Varios", RTVE Somos Cine (Sam)
 https://jmp2.uk/stvp-ES33000058B
 
-#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Cine.png" group-title="Varios", Runtime Cine (Sam) (720p)
+#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Cine.png" group-title="Varios", Runtime Cine (Sam)
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
-#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Sci-Fi.png" group-title="Varios", Sci-Fi (Plu) (720p)
+#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Sci-Fi.png" group-title="Varios", Sci-Fi (Plu)
 https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
 
-
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Sci-Fi.png" group-title="Varios", Sci-Fi (Rak) (1080p)
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Sci-Fi.png" group-title="Varios", Sci-Fi (Rak)
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=fcd4cb63-5b05-4f12-8ae2-9cf8f44fc7d5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FilmRise Sci-Fi.png" group-title="Varios", Sci-Fi FilmRise (Rak) (720p)
+#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/FilmRise Sci-Fi.png" group-title="Varios", Sci-Fi FilmRise (Rak)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=2412e7b4-43be-4bd3-be45-65603c046dd4&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
 
-#EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sensacine.png" group-title="Varios", Sensacine TV (Plu) (720p)
+#EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sensacine.png" group-title="Varios", Sensacine TV (Plu)
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios", Series (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Series.png" group-title="Varios", Series (Plu)
 https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 
-#EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Series.png" group-title="Varios", Series BBC (360p)
+#EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BBC Series.png" group-title="Varios", Series BBC
 https://jmp2.uk/stvp-ES2900001DQ
 
-#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Series Sci-Fi.png" group-title="Varios", Series Sci-Fi (Plu) (720p)
+#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Series Sci-Fi.png" group-title="Varios", Series Sci-Fi (Plu)
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 
-
-#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Star TVE.png" group-title="Varios", Star TVE (1080p)
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Star TVE.png" group-title="Varios", Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Thriller.png" group-title="Varios", Thriller (Run) (720p)
+#EXTINF:-1 tvg-id="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Thriller.png" group-title="Varios", Thriller (Run)
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sony Series Thriller.png" group-title="Varios", Thriller Series x Sony One (LG) (1080p)
-https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Thrillers.png" group-title="Varios", Thrillers (Rak) (1080p)
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Thrillers.png" group-title="Varios", Thrillers (Rak)
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=b6958705-82ce-4d97-b9a7-5f51de5e58ee&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Thrillers.png" group-title="Varios", Thrillers (Plu) (720p)
+#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Pluto Thrillers.png" group-title="Varios", Thrillers (Plu)
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 
-
-#EXTINF:-1 tvg-id="ES900002ZD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Todo Pasion.png" group-title="Varios", Todo Pasión (Sam) (1080p)
+#EXTINF:-1 tvg-id="ES900002ZD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Todo Pasion.png" group-title="Varios", Todo Pasión (Sam)
 https://jmp2.uk/stvp-ES900002ZD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rakuten TV Trailers.png" group-title="Varios", Trailers (Rak) (720p)
-https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cb0eb574-cb09-48a9-99b4-877d27260d7e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
-
-#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SamsungTV Trailers.png" group-title="Varios", Trailers (ES) (Sam) (1080p)
+#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/SamsungTV Trailers.png" group-title="Varios", Trailers (ES) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Runtime Trash.png" group-title="Varios", Trash (Run)
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
-#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Wipeout.png" group-title="Varios", Wipeout (Plu) (720p)
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Wipeout.png" group-title="Varios", Wipeout (Plu)
 https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 
 
@@ -998,44 +983,44 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 # Deporte
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN.png" group-title="Deporte", ESPN (C) (1080p)
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN.png" group-title="Deporte", ESPN (C)
 http://45.167.1.136:8000/play/a03l
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN.png" group-title="Deporte", ESPN (S) (1080p)
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN.png" group-title="Deporte", ESPN (S)
 http://45.181.122.46:8090/play/a01m
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 2.png" group-title="Deporte", ESPN 2 (N) (1080p)
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 2.png" group-title="Deporte", ESPN 2 (N)
 http://45.167.1.136:8000/play/a03m
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 2.png" group-title="Deporte", ESPN 2 (C) (1080p)
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 2.png" group-title="Deporte", ESPN 2 (C)
 http://38.137.192.250:8000/play/a0e9
 
-#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 3.png" group-title="Deporte", ESPN 3 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 3.png" group-title="Deporte", ESPN 3 (C)
 http://45.167.1.136:8000/play/a02k
 
-#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 3.png" group-title="Deporte", ESPN 3 (S) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 3.png" group-title="Deporte", ESPN 3 (S)
 http://45.181.122.46:8090/play/a01t
 
-#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 4.png" group-title="Deporte", ESPN 4 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 4.png" group-title="Deporte", ESPN 4 (C)
 http://45.167.1.136:8000/play/a02l
 
-#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 4.png" group-title="Deporte", ESPN 4 (S) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Centroamérica.y.Caribe).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 4.png" group-title="Deporte", ESPN 4 (S)
 http://38.137.192.250:8000/play/a048
 
-#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 5.png" group-title="Deporte", ESPN 5 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 5.png" group-title="Deporte", ESPN 5 (C)
 http://177.10.184.193:8000/play/a0de/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 5.png" group-title="Deporte", ESPN 5 (S) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 5.png" group-title="Deporte", ESPN 5 (S)
 http://45.181.122.46:8090/play/a028
 
-#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 6.png" group-title="Deporte", ESPN 6 (C) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 6.png" group-title="Deporte", ESPN 6 (C)
 http://45.167.1.136:8000/play/a01b
 
-#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 7.png" group-title="Deporte", ESPN 7 (S) (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN 7.png" group-title="Deporte", ESPN 7 (S)
 http://190.60.37.118:4000/play/a09j
 
-#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN Premium.png" group-title="Deporte", ESPN Premium (1080p)
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/ESPN Premium.png" group-title="Deporte", ESPN Premium
 http://45.181.122.46:8090/play/a015
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sky Sports LaLiga.png" group-title="Deporte", Sky Sports LaLiga (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Sky Sports LaLiga.png" group-title="Deporte", Sky Sports LaLiga
 http://190.92.10.66:4000/play/a001/index.m3u8
