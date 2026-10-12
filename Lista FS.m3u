@@ -8,9 +8,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Activa TV.png" group-title="Música", Activa TV (ES)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/BSO Channel.png" group-title="Música", BSO Channel (IT)
-https://57068da1deb21.streamlock.net/bwr/bwr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cadena Elite.png" group-title="Música", Cadena Elite (ES)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
@@ -56,17 +53,11 @@ https://jmp2.uk/stvp-FRBC900001LB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Energy TV Music.png" group-title="Música", Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w1068041603_b1896000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Eternal Metal.png" group-title="Música;Chicha", Eternal Metal (CL)
-https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Euro Indie Music Chart.png" group-title="Música", Euro Indie Music Chart (IT)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC11000108G" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Hip Hop TV.png" group-title="Música", Hip Hop TV (IT) (Sam)
 https://jmp2.uk/stvp-ITBC11000108G
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Hit FM.png" group-title="Música", Hit FM TV (ES)
-https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray iConcerts.png" group-title="Música", iConcerts x Stingray
 https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
@@ -100,9 +91,6 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV.png" group-title="Música", Magic TV (RM)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-
-#EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Rocks.png" group-title="Música;Chicha", Metal Rocks (GB) (Rak)
-https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Movie Music.png" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993046&ads.xumo_streamId=99993046&ads.channelId=99993046&ads.ad_tag_id=102188&ads.csid=lgchannels_us_stingraymoviemusic_ssai&ads.channelName=stingraymoviemusic_us&ads.xumo_contentName=StingrayMovieMusic&ads.xumo_contentId=4178&ads.xumo_providerName=StingrayMovieMusic&ads.xumo_providerId=4178&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -447,6 +435,9 @@ https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Spring Vibes.png" group-title="Música", XITE Spring Vibes (US) (Sam)
 https://jmp2.uk/stvp-USBD350003932
 
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE The Beatles.png" group-title="Música", XITE The Beatles (CA) (Sam)
+https://jmp2.uk/stvp-CABD17000043J
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XPTV1.png" group-title="Música", XPTV1 (GB)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 
@@ -458,6 +449,38 @@ https://your-70-s-nl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e4767
 
 #EXTINF:-1 tvg-id="NL:.Your.80`s.be" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Your 80s.png" group-title="Música;Chachi", Your '80s (HO) (Rak)
 https://your-80-s-nl.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-3-restreaming/49f65b82-c950-43e8-82db-ad1031fc281b/0.m3u8
+
+# Metal
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Eternal Metal.png" group-title="Metal", Eternal Metal (CL)
+https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="686cd8bb9d079f48dbbdfecb" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Rocks.png" group-title="Metal", Metal Rocks (GB) (Rak)
+https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal.png" group-title="Metal", Metal TV (NZ)
+https://stream.metaltv.live/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Black.png" group-title="Metal", Metal TV Black (NZ)
+https://stream.metaltv.live/live/black/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Core.png" group-title="Metal", Metal TV Core (NZ)
+https://stream.metaltv.live/live/core/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Death.png" group-title="Metal", Metal TV Death (NZ)
+https://stream.metaltv.live/live/death/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Doom.png" group-title="Metal", Metal TV Doom (NZ)
+https://stream.metaltv.live/live/doom/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Progressive.png" group-title="Metal", Metal TV Progressive (NZ)
+https://stream.metaltv.live/live/progressive/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metal Thrash.png" group-title="Metal", Metal TV Thrash (NZ)
+https://stream.metaltv.live/live/thrash/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Metaleitor.png" group-title="Metal", Metaleitor TV (VE)
+https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 
 # Música de fondo
 
@@ -636,6 +659,9 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500011J3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Easy Listening.png" group-title="Relax", Easy Listening x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="AT2000011A3" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Fall Vibes.png" group-title="Relax", Fall Vibes (AT) (Sam)
+https://jmp2.uk/stvp-AT2000011A3
 
 #EXTINF:-1 tvg-id="ES2200001SF" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Fireplace Vibes.png" group-title="Relax", Fireplace Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES2200001SF
