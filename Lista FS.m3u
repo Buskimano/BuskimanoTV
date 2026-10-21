@@ -119,6 +119,9 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV YO.png" group-title="Música", MTV YO! (US) (Plu)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
+#EXTINF:-1 tvg-id="MUSIC.BOX.80s.musicbox" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box 80s.png" group-title="Música;Chachi", Music Box 80s (CH)
+http://57.128.231.171:8080/229/index.m3u8
+
 #EXTINF:-1 tvg-id="MUSIC.BOX.CLASSIC.musicbox" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Music Box Classic.png" group-title="Música;Chachi", Music Box Classic (CH)
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 
@@ -204,14 +207,8 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Retro Plus 2.png" group-title="Música", Retro Plus 2 (CL)
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV CR.png" group-title="Música;Chicha", Rock TV Radio (CR)
-https://cloudvideo.servers10.com:8081/8038/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock CHDTV.png" group-title="Música;Chicha", Rock CHDTV
 http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV BR.png" group-title="Música;Chicha", Rock TV (BR)
-https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rock TV IT.png" group-title="Música;Chicha", Rock TV (IT) (Sam)
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
