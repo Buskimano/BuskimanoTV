@@ -26,6 +26,9 @@ https://jmp2.uk/stvp-ES2500001F9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/80s & 90s Dance Hits.png" group-title="Música;Chachi", Dance Hits 80s 90s (RU)
 http://dancehits80.denvs.ru:8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deejay.png" group-title="Música", Deejay TV (IT) (Tel)
+https://streamcdni1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b764000.m3u8
+
 #EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Def Jam.png" group-title="Música", Def Jam (GB) (Sam)
 https://jmp2.uk/stvp-GBBD3000004VR
 
@@ -405,6 +408,9 @@ https://jmp2.uk/stvp-USBB3200007AK
 #EXTINF:-1 tvg-id="CABD1200023UJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Classic Country.png" group-title="Música", XITE Classic Country (CA) (Sam)
 https://jmp2.uk/stvp-CABD1200023UJ
 
+#EXTINF:-1 tvg-id="CABD120001993" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Country Today.png" group-title="Música", XITE Country Today (CA) (Sam)
+https://d1m3fs719k0oep.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tno3apyunf3ts/59179ecc-10a9-46b1-8f06-a08e30a1728d/3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABD120001993
+
 #EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Gospel.png" group-title="Música", XITE Gospel (US) (Plu)
 https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
@@ -734,8 +740,11 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999209
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/360 Tune Box.png" group-title="DJ", 360 Tune Box (CH)
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Best.png" group-title="DJ", Best of Dance TV (HO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Best.png" group-title="DJ", Best x Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Chill.png" group-title="DJ", Chill x Dance TV (HO)
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Deep House.png" group-title="DJ", Deep House x Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
@@ -745,6 +754,15 @@ https://live.obslivestream.com/hielmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV House.png" group-title="DJ", House x Dance TV (HO)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Mainstage.png" group-title="DJ", Mainstage x Dance TV (HO)
+https://mbit1.worldcast.tv:9443/dancetelevisionseven/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Melodic.png" group-title="DJ", Melodic x Dance TV (HO)
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Minimal.png" group-title="DJ", Minimal x Dance TV (HO)
+https://mbit1.worldcast.tv:9443/dancetelevisionsix/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Play Ibiza.png" group-title="DJ", Play Ibiza (ES) (Wha)
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/64XR4VI2QL1KCQLAGP87/hls3/now,-1m/m.m3u8?ads.channel_name=Play+Ibiza&ads.content_cat=IAB1-7&ads.content_genre=Lifestyle%2CMusic%2CLATAM%2CHispanic&ads.content_id=SCB100&ads.content_language=es&ads.content_title=pl_ibz_mix_01&ads.ic=IAB1-7&ads.provider=Content+Box&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=33fbab36-c653-4e52-a9b3-55ebffef97ef&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
