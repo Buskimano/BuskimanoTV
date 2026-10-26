@@ -41,17 +41,14 @@ https://jmp2.uk/stvp-DEBA150003050
 #EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Music.png" group-title="Música", Deluxe Music (AL)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AL)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="ATBD3800001SY" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Rap.png" group-title="Música", Deluxe Rap (AT) (Sam)
+https://jmp2.uk/stvp-ATBD3800001SY
 
 #EXTINF:-1 tvg-id="DE340000678" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Summer.png" group-title="Música", Deluxe Summer (AL) (Sam)
 https://jmp2.uk/stvp-DE340000678
 
 #EXTINF:-1 tvg-id="USBD3500025GS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Djazz.png" group-title="Música", Djazz x Stingray (US) (Sam)
 https://jmp2.uk/stvp-USBD3500025GS
-
-#EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Emotion.png" group-title="Música", Émotion (FR) (Sam)
-https://jmp2.uk/stvp-FRBC900001LB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Energy TV Music.png" group-title="Música", Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w1068041603_b1896000.m3u8
@@ -95,8 +92,8 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Magic TV.png" group-title="Música", Magic TV (RM)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
-#EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Movie Music.png" group-title="Música;Chachi", Movie Music x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993046&ads.xumo_streamId=99993046&ads.channelId=99993046&ads.ad_tag_id=102188&ads.csid=lgchannels_us_stingraymoviemusic_ssai&ads.channelName=stingraymoviemusic_us&ads.xumo_contentName=StingrayMovieMusic&ads.xumo_contentId=4178&ads.xumo_providerName=StingrayMovieMusic&ads.xumo_providerId=4178&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="US4700003DP" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Movie Music.png" group-title="Música;Chachi", Movie Music x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="65410176770cf1000866bf31" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/MTV Biggest Pop.png" group-title="Música", MTV Biggest Pop (CA) (Plu)
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
@@ -274,28 +271,30 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Africa.png" group-title="Música", Trace Africa (FR)
-https://channels.trace.plus/Traceprod/AFRICA_FR/.m3u8
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.TRACE.Brazuca.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Brasil.png" group-title="Música", Trace Brasil (FR)
-https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.TRACE.Brazuca.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Brasil.png" group-title="Música", Trace Brasil (BR) (Sam)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Caribbean.png" group-title="Música", Trace Caribbean (FR)
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Gospel.png" group-title="Música", Trace  Gospel (FR)
-https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Latina.png" group-title="Música", Trace Latina (ES) (Sam)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBBD19000026B" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace UK.png" group-title="Música", Trace UK (GB)
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+https://channels.trace.plus/Traceprod/
 
+UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-id="ESBA3300043M0" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Urban.png" group-title="Música", Trace Urban (ES) (Sam)
 https://trace-urban-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Trace Urban.png" group-title="Música", Trace Urban Dom (FR)
-https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/TV Paradise.png" group-title="Música", TV Paradise (BR)
 https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
@@ -399,11 +398,11 @@ https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Vintage Radio TV.png" group-title="Música;Chachi", Vintage Radio TV (IT)
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBB320000647" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE 80s Flashback.png" group-title="Música;Chachi", XITE '80s Flashback (US) (Sam)
-https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 tvg-id="CABB2600017ZU" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE 80s Flashback.png" group-title="Música;Chachi", XITE '80s Flashback (CA) (Sam)
+https://jmp2.uk/stvp-CABB2600017ZU
 
-#EXTINF:-1 tvg-id="USBB3200007AK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE 90s Throwback.png" group-title="Música", XITE '90s Throwback (US) (Sam)
-https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-id="USBB3200007AK" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE 90s Throwback.png" group-title="Música", XITE '90s Throwback (CA) (Sam)
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 
 #EXTINF:-1 tvg-id="CABD1200023UJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Classic Country.png" group-title="Música", XITE Classic Country (CA) (Sam)
 https://jmp2.uk/stvp-CABD1200023UJ
@@ -420,14 +419,14 @@ https://jmp2.uk/stvp-DEBA2200007V6
 #EXTINF:-1 tvg-id="GBBB3800005QO" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (GB) (LG)
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (US) (Sam)
-https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-id="CABD1200038NZ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Hits.png" group-title="Música", XITE Hits (CA) (Sam)
+https://jmp2.uk/stvp-CABD1200038NZ
 
 #EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Just Chill.png" group-title="Música", XITE Just Chill (US) (Sam)
 https://jmp2.uk/stvp-USBB2300003JZ
 
-#EXTINF:-1 tvg-id="USBD3300007PB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Nuevo Latino.png" group-title="Música", XITE Nuevo Latino (US) (Sam)
-https://jmp2.uk/stvp-USBD3300007PB
+#EXTINF:-1 tvg-id="USBD3300007PB" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Nuevo Latino.png" group-title="Música", XITE Nuevo Latino (CA) (Sam)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 
 #EXTINF:-1 tvg-id="CABD1200021MS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE R&B Classic Jams.png" group-title="Música", XITE R&B Classic Jams (CA) (Sam)
 https://jmp2.uk/stvp-CABD1200021MS
@@ -435,13 +434,10 @@ https://jmp2.uk/stvp-CABD1200021MS
 #EXTINF:-1 tvg-id="USBB2300004KV" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Rock X Metal.png" group-title="Música;Chicha", XITE Rock X Metal (US) (Sam)
 https://jmp2.uk/stvp-USBB2300004KV
 
-#EXTINF:-1 tvg-id="USBD3300010L9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Siempre Latino.png" group-title="Música", XITE Siempre Latino (US) (Sam)
-https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1 tvg-id="USBD3300010L9" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Siempre Latino.png" group-title="Música", XITE Siempre Latino (CA) (Sam)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
-#EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Spring Vibes.png" group-title="Música", XITE Spring Vibes (US) (Sam)
-https://jmp2.uk/stvp-USBD350003932
-
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE The Beatles.png" group-title="Música", XITE The Beatles (CA) (Sam)
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XITE Celebrates.png" group-title="Música", XITE Celebrates (CA) (Sam)
 https://jmp2.uk/stvp-CABD17000043J
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/XPTV1.png" group-title="Música", XPTV1 (GB)
@@ -496,9 +492,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/hls.m3u8?ads.xumo_channel
 #EXTINF:-1 tvg-id="plex.tv.Alternative.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Alternative Rock.png" group-title="Fondo", Alternative Rock x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="USBD35000180U" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Classic Rock.png" group-title="Fondo", Classic Rock x Stingray (ES) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992459&ads.xumo_streamId=99992459&ads.channelId=99992459&ads.ad_tag_id=15723&ads.csid=lgchannels_es_stingrayclassicrock_ssai&ads.channelName=stingrayclassicrock_es&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.xumo_providerName=StingrayClassicRock&ads.xumo_providerId=1856&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
 #EXTINF:-1 tvg-id="USBD35000180U" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Classic Rock.png" group-title="Fondo", Classic Rock x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
@@ -519,9 +512,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500008IJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Flashback 70s.png" group-title="Fondo", Flashback '70s x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="USBD3500008IJ" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Flashback 70s.png" group-title="Fondo", Flashback '70s x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993048&ads.xumo_streamId=99993048&ads.channelId=99993048&ads.ad_tag_id=102190&ads.csid=lgchannels_us_stingrayflashback70s_ssai&ads.channelName=stingrayflashback70s_us&ads.xumo_contentName=StingrayFlashback&ads.xumo_contentId=4177&ads.xumo_providerName=StingrayFlashback&ads.xumo_providerId=4177&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-id="CA29000183M" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Franco Country.png" group-title="Fondo", Franco Country x Stingray (CA) (Sam)
 https://jmp2.uk/stvp-CA29000183M
@@ -571,8 +561,8 @@ https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="CA2900017MW" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Nostalgie.png" group-title="Fondo", Nostalgie x Stingray (CA) (Sam)
 https://jmp2.uk/stvp-CA2900017MW
 
-#EXTINF:-1 tvg-id="USBD35000149S" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Nothin But 90s.png" group-title="Fondo", Nothin' But '90s x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992040&ads.xumo_streamId=99992040&ads.channelId=99992040&ads.ad_tag_id=9334&ads.csid=lgchannels_us_stingray90s_ssai&ads.channelName=stingray90s_us&ads.xumo_contentName=Stingray90sUS&ads.xumo_contentId=3760&ads.xumo_providerName=Stingray90sUS&ads.xumo_providerId=3760&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="USBD35000149S" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Nothin But 90s.png" group-title="Fondo", Nothin' But '90s x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Pop.Adult.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Pop Adult.png" group-title="Fondo", Pop Adult x Stingray (ES) (LG)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992453&ads.xumo_streamId=99992453&ads.channelId=99992453&ads.ad_tag_id=15716&ads.csid=lgchannels_es_stingraypopadult_ssai&ads.channelName=stingraypopadult_it&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.xumo_providerName=StingrayPopAdult&ads.xumo_providerId=3197&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -586,11 +576,11 @@ https://lotus.stingray.com/manifest/ose-201ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="USBD3500017CE" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Romance Latino.png" group-title="Fondo", Romance Latino x Stingray (US) (Sam)
 https://jmp2.uk/stvp-USBD3500017CE
 
-#EXTINF:-1 tvg-id="USBD35000128A" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Smooth Jazz.png" group-title="Fondo", Smooth Jazz x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992016&ads.xumo_streamId=99992016&ads.channelId=99992016&ads.ad_tag_id=9336&ads.csid=lgchannels_us_stingraysmoothjazz_ssai&ads.channelName=stingraysmoothjazz_us&ads.xumo_contentName=StingraySmoothJazz&ads.xumo_contentId=3538&ads.xumo_providerName=StingraySmoothJazz&ads.xumo_providerId=3538&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="USBD35000128A" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Smooth Jazz.png" group-title="Fondo", Smooth Jazz x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Stingray.Soul.Storm.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Soul Storm.png" group-title="Fondo", Soul Storm x Stingray (CA) (Ple)
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Soul.Storm.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Soul Storm.png" group-title="Fondo", Soul Storm x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Stingray.Soul.Storm.plex" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Soul Storm.png" group-title="Fondo", Soul Storm x Stingray (US) (Xum)
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885536/hls/master.m3u8?ads.xumo_channelId=88885536
@@ -627,8 +617,8 @@ https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u
 
 # Relax
 
-#EXTINF:-1 tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cityscapes.png" group-title="Relax", Cityscapes x Stingray (Vid)
-https://di4chcy8fb6ab.cloudfront.net/11002/88817964/hls/master.m3u8?ads.xumo_channelId=88817964&ads.csid=hisensechannels_us_stingraycityscapes_ssai&ads.caid=StingrayCityscapes&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_coppa=0&ads.xumo_contentId=4246&ads.xumo_contentName=StingrayCityscapes&ads.xumo_providerId=4246&ads.xumo_providerName=StingrayCityscapes&ads._fw_content_rating=TV-PG&ads.xumo_streamId=88817964&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9595
+#EXTINF:-1 tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cityscapes.png" group-title="Relax", Cityscapes x Stingray (CA) (Rok)
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="CA400005W4" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Classica.png" group-title="Relax", Classica x Stingray (CA) (Sam)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
@@ -636,14 +626,14 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-id="ES1200003SI" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Concerto.png" group-title="Relax", Concerto (ES) (Sam)
 https://jmp2.uk/stvp-ES1200003SI
 
-#EXTINF:-1 tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cozy Cafe.png" group-title="Relax", Cozy Cafe x Stingray (US) (Xum)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047
+#EXTINF:-1 tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Cozy Cafe.png" group-title="Relax", Cozy Cafe x Stingray (CA) (Rok)
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="ES190000224" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Cozy Vibes.png" group-title="Relax", Cozy Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES190000224
 
-#EXTINF:-1 tvg-id="ES:.Deluxe.Lounge.HD.be" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Lounge.png" group-title="Relax", Deluxe Lounge (Rak)
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=5a0b72cc-bc2a-4afb-b827-b7a5c5a3da99&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
+#EXTINF:-1 tvg-id="ES:.Deluxe.Lounge.HD.be" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Deluxe Lounge.png" group-title="Relax", Deluxe Lounge (AL) (Sam)
+https://jmp2.uk/stvp-CHAJ0500413A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Drone TV.png" group-title="Relax", Drone TV (AU) (TCL)
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
@@ -714,8 +704,8 @@ https://lotus.stingray.com/manifest/ose-124ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="ES1800006ZS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Rainy Day Vibes.png" group-title="Relax", Rainy Day Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES1800006ZS
 
-#EXTINF:-1 tvg-id="USBD3500013DG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray SPA.png" group-title="Relax", Spa x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992008&ads.xumo_streamId=99992008&ads.channelId=99992008&ads.ad_tag_id=9338&ads.csid=lgchannels_us_stingrayspa_ssai&ads.channelName=stingrayspa_us&ads.xumo_contentName=StingraySpa&ads.xumo_contentId=3537&ads.xumo_providerName=StingraySpa&ads.xumo_providerId=3537&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="USBD3500013DG" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray SPA.png" group-title="Relax", Spa x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ES7000088K" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Space Live.png" group-title="Relax", Space Live (ES) (Sam)
 https://jmp2.uk/stvp-ES7000088K
@@ -723,8 +713,8 @@ https://jmp2.uk/stvp-ES7000088K
 #EXTINF:-1 tvg-id="ES1800009VX" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Spring Vibes.png" group-title="Relax", Spring Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES1800009VX
 
-#EXTINF:-1 tvg-id="8b564fb868f8f1d49a1986123724ef18" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Stargaze.png" group-title="Relax", Stargaze x Stingray (Vid)
-https://di4chcy8fb6ab.cloudfront.net/11002/88817974/hls/master.m3u8?ads.xumo_channelId=88817974&ads.csid=hisensechannels_us_stingraystargaze_ssai&ads.caid=StingrayStargaze&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_coppa=0&ads.xumo_contentId=4249&ads.xumo_contentName=StingrayStargaze&ads.xumo_providerId=4249&ads.xumo_providerName=StingrayStargaze&ads._fw_content_rating=TV-PG&ads.xumo_streamId=88817974&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9586
+#EXTINF:-1 tvg-id="8b564fb868f8f1d49a1986123724ef18" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray Stargaze.png" group-title="Relax", Stargaze x Stingray (ES) (LG)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99994461&ads.xumo_streamId=99994461&ads.channelId=99994461&ads.ad_tag_id=183407&ads.csid=lgchannels_es_stingraystargaze_ssai&ads.channelName=StingrayStargaze&ads.xumo_contentName=StingrayStargaze&ads.xumo_contentId=4249&ads.xumo_providerName=StingrayStargaze&ads.xumo_providerId=4249&ads.content_category=IAB1-6&ads.content_genre=Entertainment,Music,GV&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-id="ES1900003JT" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Storm Vibes.png" group-title="Relax", Storm Vibes (ES) (Sam)
 https://jmp2.uk/stvp-ES1900003JT
@@ -732,8 +722,8 @@ https://jmp2.uk/stvp-ES1900003JT
 #EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax", ZenLIFE x Stingray (CA) (Ple)
 https://jmp2.uk/plex-697140a85d851f5e69414688-66fd3e25216b603e031725fe.m3u8
 
-#EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax", ZenLIFE x Stingray (US) (LG)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.xumo_streamId=99992099&ads.channelId=99992099&ads.ad_tag_id=36042&ads.csid=lgchannels_us_stingrayzenlife_ssai&ads.channelName=stingrayzenlife_us&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.xumo_providerName=StingrayZenlifeUS&ads.xumo_providerId=3975&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="USBD3500027DS" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Stingray ZenLIFE.png" group-title="Relax", ZenLIFE x Stingray (CA) (Sam)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 # DJ
 
@@ -745,6 +735,9 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Chill.png" group-title="DJ", Chill x Dance TV (HO)
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Clubbing.png" group-title="DJ", Clubbing TV (GB)
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Buskimano/BuskimanoTV/main/Logos/Dance TV Deep House.png" group-title="DJ", Deep House x Dance TV (HO)
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
